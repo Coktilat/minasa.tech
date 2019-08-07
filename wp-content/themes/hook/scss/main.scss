@@ -1,0 +1,28 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	Hook Theme
+Version:	1.0
+Author:	Pirenko 
+-------------------------------------------------------------------*/
+
+/* VARIABLES DECLARATION */
+$css_theme_gutter: 18px;
+$golden_font: 1.618;
+$majorer_font: 1.16;
+$minorer_font: 0.84;
+$css_vertical_pad: 54px;
+$sticky_height: 46px;
+
+@charset "UTF-8";
+@import "compass/css3";
+
+@import "general.scss";
+@import "layout.scss";
+@import "menus.scss";
+@import "elements.scss";
+@import "other.scss";
+@import "js_composer.scss";
+@import "gutenberg.scss";
+@import "responsive.scss";
+@import "woocommerce.scss";

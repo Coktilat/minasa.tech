@@ -1,0 +1,87 @@
+.mhsc_separator {
+    margin: 2.15em 0;
+    border-color: transparent;
+}
+.mhsc_marker {
+    padding: 0.188em 0.375em;
+    background-color: #fffac0;
+}
+.mhsc_marker.light_text {
+    color: #fff;
+}
+.mhsc_marker.dark_text {
+    color: #444444;
+}
+
+.mhsc_close {
+    float: right;
+    font-size: 18px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    line-height: 1.8;
+    color: #000;
+    -webkit-transition: opacity 0.3s ease;
+    transition: opacity 0.3s ease;
+}
+.mhsc_close:hover {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+    opacity: 0.25;
+}
+button.mhsc_close {
+    padding: 0;
+    cursor: pointer;
+    background-color: transparent;
+    border: 0;
+    -webkit-appearance: none;
+}
+.mhsc_alert {
+    margin-bottom: 2.15em;
+    border: 2px solid #fab418;
+    padding: 0.8em 1em 1.25em;
+    font-size: 12px;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #fab418;
+    background-color: #fff;
+}
+.mhsc_alert .h_alert {
+    text-transform: none;
+    color: inherit;
+}
+.mhsc_alert .mhsc_close{
+    position: relative;
+    top: -10px;
+    left: -10px;
+    line-height: 1;
+    color: #fab418;
+		float:left;
+}
+
+.mhsc_alert_block {
+    padding: 0.786em 1.15em 1em;
+}
+.mhsc_alert_block > p, .mhsc_alert_block > ul {
+    margin-bottom: 0;
+}
+.mhsc_alert_block p+p {
+    margin-top: 6px;
+}
+
+
+.mhsc_btn{text-align: center;}
+.mhsc_btn:hover {
+    opacity: 0.7;
+}
+.mhsc_btn_fullwidth{ display: block; clear: both; margin: 4px auto;}
+.mhc_promo_button.mhsc_btn_x1, .mhc_promo_button.mhsc_btn_x1:hover {
+    font-size: 13px;
+    padding: 3px 10px !important;
+}
+
+.mhc_promo_button.mhsc_btn_x3, .mhc_promo_button.mhsc_btn_x3:hover {
+    font-size: 17px;
+    padding: 14px 30px !important;
+}
+    

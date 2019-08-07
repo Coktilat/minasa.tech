@@ -1,0 +1,1072 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mharty - Magazine\n"
+"POT-Creation-Date: 2018-10-06 11:54+0100\n"
+"PO-Revision-Date: 2018-10-06 11:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: mh-magazine.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/components.php:6
+msgid "Magazine"
+msgstr ""
+
+#: includes/components.php:73
+msgid "Post"
+msgstr ""
+
+#: includes/components.php:75 includes/components.php:80
+#: includes/components.php:85 includes/components.php:90
+#: includes/components.php:95 includes/components.php:100
+#: includes/components.php:2276 includes/components.php:2281
+#: includes/components.php:2286
+msgid "Use this to add Custom CSS Properties."
+msgstr ""
+
+#: includes/components.php:78 includes/components.php:222
+#: includes/components.php:1738 includes/components.php:2029
+msgid "Featured Image"
+msgstr ""
+
+#: includes/components.php:83
+msgid "Content"
+msgstr ""
+
+#: includes/components.php:88 includes/components.php:116
+#: includes/components.php:177 includes/components.php:812
+#: includes/components.php:1695 includes/components.php:1719
+#: includes/components.php:1986 includes/components.php:2010
+msgid "Title"
+msgstr ""
+
+#: includes/components.php:93
+msgid "Small Title"
+msgstr ""
+
+#: includes/components.php:98
+msgid "Post Meta"
+msgstr ""
+
+#: includes/components.php:111 includes/components.php:807
+#: includes/components.php:1690 includes/components.php:1981
+msgid "Content Type"
+msgstr ""
+
+#: includes/components.php:114 includes/components.php:810
+#: includes/components.php:1693 includes/components.php:1984
+msgid "Latest"
+msgstr ""
+
+#: includes/components.php:115 includes/components.php:811
+#: includes/components.php:1694 includes/components.php:1985
+msgid "Popular"
+msgstr ""
+
+#: includes/components.php:117 includes/components.php:813
+#: includes/components.php:1696 includes/components.php:1987
+msgid "Random"
+msgstr ""
+
+#: includes/components.php:119 includes/components.php:815
+#: includes/components.php:1698 includes/components.php:1989
+msgid ""
+"Order by: Latest - the most recent articles, Popular - the most commented, "
+"Title, or Random."
+msgstr ""
+
+#: includes/components.php:122
+msgid "Style"
+msgstr ""
+
+#: includes/components.php:125
+msgid "Flat"
+msgstr ""
+
+#: includes/components.php:126
+msgid "Boxed"
+msgstr ""
+
+#: includes/components.php:133 includes/components.php:189
+#: includes/components.php:945
+msgid "Choose the desired style."
+msgstr ""
+
+#: includes/components.php:136 includes/components.php:818
+msgid "Layout"
+msgstr ""
+
+#: includes/components.php:139
+msgid "Feature the first"
+msgstr ""
+
+#: includes/components.php:140
+msgid "Large"
+msgstr ""
+
+#: includes/components.php:141
+msgid "Small"
+msgstr ""
+
+#: includes/components.php:142
+msgid "Card"
+msgstr ""
+
+#: includes/components.php:144 includes/components.php:847
+msgid "Choose the desired layout."
+msgstr ""
+
+#: includes/components.php:150 includes/components.php:877
+#: includes/components.php:1701 includes/components.php:1992
+msgid "Include Categories"
+msgstr ""
+
+#: includes/components.php:155 includes/components.php:882
+#: includes/components.php:1706 includes/components.php:1997
+msgid "Choose which categories you would like to include in the feed."
+msgstr ""
+
+#: includes/components.php:158 includes/components.php:885
+#: includes/components.php:1709 includes/components.php:2000
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/components.php:160 includes/components.php:887
+#: includes/components.php:1711 includes/components.php:2002
+msgid "Choose how many posts you would like to show."
+msgstr ""
+
+#: includes/components.php:163 includes/components.php:891
+#: includes/components.php:1714 includes/components.php:2005
+msgid "Offset Posts"
+msgstr ""
+
+#: includes/components.php:165
+msgid "Choose by how many posts you would like to offset. Numeric value only"
+msgstr ""
+
+#: includes/components.php:168
+msgid "Show Category/Title"
+msgstr ""
+
+#: includes/components.php:171 includes/components.php:225
+#: includes/components.php:235 includes/components.php:243
+#: includes/components.php:252 includes/components.php:270
+#: includes/components.php:280 includes/components.php:289
+#: includes/components.php:298 includes/components.php:306
+#: includes/components.php:315 includes/components.php:329
+#: includes/components.php:339 includes/components.php:932
+#: includes/components.php:972 includes/components.php:981
+#: includes/components.php:990 includes/components.php:1741
+#: includes/components.php:1750 includes/components.php:2032
+#: includes/components.php:2041 includes/components.php:2302
+#: includes/components.php:2316 includes/components.php:2325
+#: includes/components.php:2335 includes/components.php:2453
+msgid "Yes"
+msgstr ""
+
+#: includes/components.php:172 includes/components.php:226
+#: includes/components.php:234 includes/components.php:244
+#: includes/components.php:253 includes/components.php:271
+#: includes/components.php:279 includes/components.php:288
+#: includes/components.php:297 includes/components.php:307
+#: includes/components.php:316 includes/components.php:328
+#: includes/components.php:338 includes/components.php:933
+#: includes/components.php:971 includes/components.php:980
+#: includes/components.php:991 includes/components.php:1742
+#: includes/components.php:1751 includes/components.php:2033
+#: includes/components.php:2042 includes/components.php:2303
+#: includes/components.php:2317 includes/components.php:2326
+#: includes/components.php:2334 includes/components.php:2452
+msgid "No"
+msgstr ""
+
+#: includes/components.php:174
+msgid ""
+"Here you can define whether to show the category as a title, or you can "
+"define a custom title below."
+msgstr ""
+
+#: includes/components.php:179
+msgid ""
+"Define a custom title here. Make sure you did not choose to show category as "
+"a title above."
+msgstr ""
+
+#: includes/components.php:182 includes/components.php:938
+msgid "Category Style"
+msgstr ""
+
+#: includes/components.php:185 includes/components.php:941
+msgid "Parallel"
+msgstr ""
+
+#: includes/components.php:186 includes/components.php:942
+msgid "Button"
+msgstr ""
+
+#: includes/components.php:187
+msgid "Link"
+msgstr ""
+
+#: includes/components.php:196 includes/components.php:896
+#: includes/components.php:1724 includes/components.php:2015
+#: includes/components.php:2412
+msgid "Text Colour"
+msgstr ""
+
+#: includes/components.php:199 includes/components.php:899
+#: includes/components.php:1728 includes/components.php:2019
+#: includes/components.php:2415
+msgid "Dark"
+msgstr ""
+
+#: includes/components.php:200 includes/components.php:900
+#: includes/components.php:1727 includes/components.php:2018
+#: includes/components.php:2416
+msgid "Light"
+msgstr ""
+
+#: includes/components.php:202 includes/components.php:903
+#: includes/components.php:1730 includes/components.php:2021
+#: includes/components.php:2418
+msgid ""
+"Here you can choose whether your text should be light or dark. If you are "
+"working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+
+#: includes/components.php:205 includes/components.php:916
+msgid "Background Colour"
+msgstr ""
+
+#: includes/components.php:208 includes/components.php:919
+msgid "Here you can define a custom background colour."
+msgstr ""
+
+#: includes/components.php:211 includes/components.php:906
+msgid "Accent Colour"
+msgstr ""
+
+#: includes/components.php:213 includes/components.php:913
+#: includes/components.php:2423
+msgid "Here you can define a custom colour."
+msgstr ""
+
+#: includes/components.php:216 includes/components.php:911
+msgid "Buttons Text Colour"
+msgstr ""
+
+#: includes/components.php:219
+msgid "For parallel and button style you can define a custom colour."
+msgstr ""
+
+#: includes/components.php:228 includes/components.php:1744
+#: includes/components.php:2035
+msgid "Here you can define whether to show the post featured image."
+msgstr ""
+
+#: includes/components.php:231
+msgid "Show Author Avatar"
+msgstr ""
+
+#: includes/components.php:237
+msgid "Here you can define whether to show the author avatar."
+msgstr ""
+
+#: includes/components.php:240
+msgid "Show Author"
+msgstr ""
+
+#: includes/components.php:246
+msgid "Here you can define whether to show the author name."
+msgstr ""
+
+#: includes/components.php:249
+msgid "Show Date"
+msgstr ""
+
+#: includes/components.php:258
+msgid "Here you can define whether to show the date."
+msgstr ""
+
+#: includes/components.php:261
+msgid "Date Format"
+msgstr ""
+
+#: includes/components.php:264
+msgid ""
+"If you would like to adjust the date format, input the appropriate PHP date "
+"format here."
+msgstr ""
+
+#: includes/components.php:267 includes/components.php:929
+msgid "Show Categories"
+msgstr ""
+
+#: includes/components.php:273 includes/components.php:935
+msgid "Here you can define whether to show categories links."
+msgstr ""
+
+#: includes/components.php:276
+msgid "Show Comments Count"
+msgstr ""
+
+#: includes/components.php:282
+msgid "Here you can choose whether or not display the Comments Count."
+msgstr ""
+
+#: includes/components.php:285
+msgid "Show Views Count"
+msgstr ""
+
+#: includes/components.php:291
+msgid ""
+"Here you can define whether to show Views Count. For this option to work you "
+"must have \"WP-PostViews\" plugin installed and activated."
+msgstr ""
+
+#: includes/components.php:294 includes/components.php:968
+msgid "Show Ratings"
+msgstr ""
+
+#: includes/components.php:300 includes/components.php:974
+#, fuzzy
+#| msgid ""
+#| "Here you can define whether to show \"Like icon\" or not. For this option "
+#| "to work you must have \"Mharty - Love it\" plugin installed and activated."
+msgid ""
+"Here you can define whether to show reviews rating. For this option to work "
+"you must have \"MH REVIEWS\" plugin installed and activated."
+msgstr ""
+"Here you can define whether to show the “Like icon”. For this option to work "
+"you must have “Mharty - Love it” plugin installed and activated."
+
+#: includes/components.php:303 includes/components.php:958
+msgid "Show Excerpt"
+msgstr ""
+
+#: includes/components.php:309 includes/components.php:965
+msgid ""
+"Here you can define whether to show excerpts. Some layouts do not show "
+"excerpts."
+msgstr ""
+
+#: includes/components.php:312
+msgid "Show Read More"
+msgstr ""
+
+#: includes/components.php:322
+msgid ""
+"Here you can define whether to show “read more” link after the excerpts."
+msgstr ""
+
+#: includes/components.php:325
+msgid "Read More Button Style"
+msgstr ""
+
+#: includes/components.php:332
+msgid "Here you can define whether to display \"read more\" link as a button."
+msgstr ""
+
+#: includes/components.php:335
+msgid "Like Icon"
+msgstr ""
+
+#: includes/components.php:341
+msgid ""
+"Here you can define whether to show the “Like icon”. For this option to work "
+"you must have “Mharty - Love it” plugin installed and activated."
+msgstr ""
+
+#: includes/components.php:344 includes/components.php:1016
+#: includes/components.php:1796 includes/components.php:2087
+#: includes/components.php:2426
+msgid "Admin Label"
+msgstr ""
+
+#: includes/components.php:346 includes/components.php:1018
+#: includes/components.php:1798 includes/components.php:2089
+#: includes/components.php:2428
+msgid ""
+"This will change the label of the component in the composer for easy "
+"identification."
+msgstr ""
+
+#: includes/components.php:349 includes/components.php:1021
+#: includes/components.php:1801 includes/components.php:2092
+#: includes/components.php:2431
+msgid "{CSS ID}"
+msgstr ""
+
+#: includes/components.php:351 includes/components.php:1023
+#: includes/components.php:1803 includes/components.php:2094
+#: includes/components.php:2433
+msgid ""
+"Enter an optional CSS ID. An ID can be used to create custom CSS styling, or "
+"to create links to particular sections of your page."
+msgstr ""
+
+#: includes/components.php:355 includes/components.php:1027
+#: includes/components.php:1807 includes/components.php:2098
+#: includes/components.php:2437
+msgid "{CSS Class}"
+msgstr ""
+
+#: includes/components.php:357 includes/components.php:1029
+#: includes/components.php:1809 includes/components.php:2100
+#: includes/components.php:2439
+msgid ""
+"Enter optional CSS classes. A CSS class can be used to create custom CSS "
+"styling. You can add multiple classes, separated with a space."
+msgstr ""
+
+#: includes/components.php:361 includes/components.php:1813
+#: includes/components.php:2104 includes/components.php:2473
+msgid "Hide on"
+msgstr ""
+
+#: includes/components.php:364 includes/components.php:1816
+#: includes/components.php:2107 includes/components.php:2476
+msgid "Phone"
+msgstr ""
+
+#: includes/components.php:365 includes/components.php:1817
+#: includes/components.php:2108 includes/components.php:2477
+msgid "Tablet"
+msgstr ""
+
+#: includes/components.php:366 includes/components.php:1818
+#: includes/components.php:2109 includes/components.php:2478
+msgid "Desktop"
+msgstr ""
+
+#: includes/components.php:369 includes/components.php:1821
+#: includes/components.php:2112 includes/components.php:2481
+msgid "This will hide the component on selected devices"
+msgstr ""
+
+#: includes/components.php:599
+msgctxt "This is a comma followed by a space."
+msgid ", "
+msgstr ""
+
+#: includes/components.php:610
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/components.php:620
+#, php-format
+msgid "%s Comments"
+msgstr ""
+
+#: includes/components.php:696 includes/components.php:1541
+msgid "Read more"
+msgstr ""
+
+#: includes/components.php:735
+msgid "Full-width Magazine"
+msgstr ""
+
+#: includes/components.php:821
+msgid "Posts slider"
+msgstr ""
+
+#: includes/components.php:822
+msgid "Posts carousel"
+msgstr ""
+
+#: includes/components.php:823
+msgid "Posts gallery"
+msgstr ""
+
+#: includes/components.php:824
+#, fuzzy
+#| msgid "Posts Number"
+msgid "Posts Grid"
+msgstr "Number of Posts"
+
+#: includes/components.php:850
+msgid "Grid Layout"
+msgstr ""
+
+#: includes/components.php:853
+msgid "1 Post"
+msgstr ""
+
+#: includes/components.php:854
+msgid "2 Posts"
+msgstr ""
+
+#: includes/components.php:855
+msgid "3 Posts"
+msgstr ""
+
+#: includes/components.php:856
+msgid "4 Posts"
+msgstr ""
+
+#: includes/components.php:857
+msgid "5 Posts"
+msgstr ""
+
+#: includes/components.php:858
+msgid "6 Posts"
+msgstr ""
+
+#: includes/components.php:859
+msgid "7 Posts"
+msgstr ""
+
+#: includes/components.php:860
+msgid "8 Posts"
+msgstr ""
+
+#: includes/components.php:863
+msgid "Choose the desired grid layout."
+msgstr ""
+
+#: includes/components.php:866
+msgid "Navigation Position"
+msgstr ""
+
+#: includes/components.php:869 includes/components.php:1055
+msgid "Right"
+msgstr ""
+
+#: includes/components.php:870 includes/components.php:1056
+msgid "Left"
+msgstr ""
+
+#: includes/components.php:871
+msgid "Hide"
+msgstr ""
+
+#: includes/components.php:874
+msgid "Toggle between the navigation positions."
+msgstr ""
+
+#: includes/components.php:893 includes/components.php:1716
+#: includes/components.php:2007
+msgid "Choose by how many posts you would like to offset. Numeric value only."
+msgstr ""
+
+#: includes/components.php:908
+msgid "Here you can define a custom colour for the buttons."
+msgstr ""
+
+#: includes/components.php:922
+msgid "Text Orientation"
+msgstr ""
+
+#: includes/components.php:926
+msgid "This controls how your text is aligned."
+msgstr ""
+
+#: includes/components.php:943
+msgid "Bold"
+msgstr ""
+
+#: includes/components.php:948
+msgid "Show Title"
+msgstr ""
+
+#: includes/components.php:951 includes/components.php:961
+#: includes/components.php:1001 includes/components.php:1044
+#: includes/components.php:1760 includes/components.php:1791
+#: includes/components.php:2051 includes/components.php:2082
+msgid "On"
+msgstr ""
+
+#: includes/components.php:952 includes/components.php:962
+#: includes/components.php:1000 includes/components.php:1045
+#: includes/components.php:1759 includes/components.php:1790
+#: includes/components.php:2050 includes/components.php:2081
+msgid "Off"
+msgstr ""
+
+#: includes/components.php:955
+msgid "Here you can define whether to show the title on the slide image."
+msgstr ""
+
+#: includes/components.php:977 includes/components.php:1747
+#: includes/components.php:2038
+msgid "Show Arrows"
+msgstr ""
+
+#: includes/components.php:984
+msgid "This setting will turn on and off the navigation arrows."
+msgstr ""
+
+#: includes/components.php:987
+msgid "Show Controls"
+msgstr ""
+
+#: includes/components.php:994
+msgid "This setting will turn on and off the circle buttons at the bottom."
+msgstr ""
+
+#: includes/components.php:997 includes/components.php:1756
+#: includes/components.php:2047
+msgid "Automatic Animation"
+msgstr ""
+
+#: includes/components.php:1007 includes/components.php:1767
+#: includes/components.php:2058
+msgid ""
+"If you would like the slider to play automatically, without the visitor "
+"having to click the next button, enable this option and then adjust the "
+"rotation speed below if desired."
+msgstr ""
+
+#: includes/components.php:1010 includes/components.php:1770
+#: includes/components.php:2061
+msgid "Automatic Animation Speed (in ms)"
+msgstr ""
+
+#: includes/components.php:1013 includes/components.php:1773
+#: includes/components.php:2064
+msgid ""
+"Here you can designate how fast the slider fades between each slide, if "
+"'Automatic Animation' option is enabled above. The higher the number the "
+"longer the pause between each rotation."
+msgstr ""
+
+#: includes/components.php:1033
+msgid "Maximum Height"
+msgstr ""
+
+#: includes/components.php:1038
+msgid "This will change the maximum height for the images."
+msgstr ""
+
+#: includes/components.php:1041
+msgid "Infinite Rotation"
+msgstr ""
+
+#: includes/components.php:1051
+msgid "First Item Alignment"
+msgstr ""
+
+#: includes/components.php:1054
+msgid "Centre"
+msgstr ""
+
+#: includes/components.php:1062
+msgid "Pagination Style"
+msgstr ""
+
+#: includes/components.php:1065
+msgid "Dots"
+msgstr ""
+
+#: includes/components.php:1066
+msgid "Lines"
+msgstr ""
+
+#: includes/components.php:1069
+msgid "Define the style for the pagination."
+msgstr ""
+
+#: includes/components.php:1073
+msgid "Pagination Colour"
+msgstr ""
+
+#: includes/components.php:1075
+msgid "Here you can define a custom colour for the arrows and pagination."
+msgstr ""
+
+#: includes/components.php:1081
+msgid "Container Maximum Width"
+msgstr ""
+
+#: includes/components.php:1086
+msgid ""
+"This will change the container maximum width. For best result keep the max "
+"width between 1366 and 795."
+msgstr ""
+
+#: includes/components.php:1089
+msgid "Gap"
+msgstr ""
+
+#: includes/components.php:1101
+msgid "Corners Radius"
+msgstr ""
+
+#: includes/components.php:1646
+msgid "Ticker"
+msgstr ""
+
+#: includes/components.php:1721 includes/components.php:2012
+msgid "Here you can define a title for your ticker, or leave empty."
+msgstr ""
+
+#: includes/components.php:1733 includes/components.php:2024
+msgid "Ticker Colour"
+msgstr ""
+
+#: includes/components.php:1735 includes/components.php:2026
+msgid "Use the colour picker to choose the background colour for your ticker."
+msgstr ""
+
+#: includes/components.php:1753 includes/components.php:2044
+msgid ""
+"This setting will turn on and off the navigation arrows for your ticker."
+msgstr ""
+
+#: includes/components.php:1776 includes/components.php:2067
+msgid "Ticker Animation"
+msgstr ""
+
+#: includes/components.php:1779 includes/components.php:2070
+msgid "Fade"
+msgstr ""
+
+#: includes/components.php:1780 includes/components.php:2071
+msgid "Slide"
+msgstr ""
+
+#: includes/components.php:1781 includes/components.php:2072
+msgid "Slide Vertically"
+msgstr ""
+
+#: includes/components.php:1784 includes/components.php:2075
+msgid "Here you can choose the style for your ticker."
+msgstr ""
+
+#: includes/components.php:1787 includes/components.php:2078
+msgid "Pause on Hover"
+msgstr ""
+
+#: includes/components.php:1793 includes/components.php:2084
+msgid "Here you can choose to pause the ticker on hover."
+msgstr ""
+
+#: includes/components.php:1938
+msgid "Full-width Ticker"
+msgstr ""
+
+#: includes/components.php:2229
+msgid "Classified"
+msgstr ""
+
+#: includes/components.php:2274
+msgid "Classified Icon"
+msgstr ""
+
+#: includes/components.php:2279
+msgid "Classified Title"
+msgstr ""
+
+#: includes/components.php:2284
+msgid "Classified Description"
+msgstr ""
+
+#: includes/components.php:2294
+msgid "Select Category"
+msgstr ""
+
+#: includes/components.php:2296
+msgid ""
+"Choose which category you would like to include in the feed. Top-level "
+"categories which have children."
+msgstr ""
+
+#: includes/components.php:2299
+msgid "Show Descrption"
+msgstr ""
+
+#: includes/components.php:2305
+#, fuzzy
+#| msgid "Here you can define whether to show the date or not."
+msgid "Here you can choose whether to show the category description."
+msgstr "Here you can define whether to show the date."
+
+#: includes/components.php:2308
+msgid "Sub Category Number"
+msgstr ""
+
+#: includes/components.php:2310
+msgid "The number of sub categories to show. Leave empty to show all."
+msgstr ""
+
+#: includes/components.php:2313
+msgid "Show Posts Count"
+msgstr ""
+
+#: includes/components.php:2319
+#, fuzzy
+#| msgid "Here you can define whether to show the date or not."
+msgid "Here you can choose whether to show the post count."
+msgstr "Here you can define whether to show the date."
+
+#: includes/components.php:2322
+msgid "Show More link"
+msgstr ""
+
+#: includes/components.php:2328
+#, fuzzy
+#| msgid "Here you can define whether to show the date or not."
+msgid "Here you can choose whether to show the more link."
+msgstr "Here you can define whether to show the date."
+
+#: includes/components.php:2331
+msgid "Use Icon"
+msgstr ""
+
+#: includes/components.php:2340
+#, fuzzy
+#| msgid "Here you can define whether to show the date or not."
+msgid "Here you can choose whether icon set below should be used."
+msgstr "Here you can define whether to show the date."
+
+#: includes/components.php:2343
+msgid "Icons Font"
+msgstr ""
+
+#: includes/components.php:2345
+msgid "If you want more icons, install & activate MH More Icons Plugin."
+msgstr ""
+
+#: includes/components.php:2349 includes/components.php:2358
+#: includes/components.php:2367 includes/components.php:2376
+#: includes/components.php:2385 includes/components.php:2394
+#: includes/components.php:2403
+msgid "Icon"
+msgstr ""
+
+#: includes/components.php:2354 includes/components.php:2363
+#: includes/components.php:2372 includes/components.php:2381
+#: includes/components.php:2390 includes/components.php:2399
+#: includes/components.php:2408
+msgid "Select an icon to use it."
+msgstr ""
+
+#: includes/components.php:2421
+#, fuzzy
+#| msgid "Accent Color"
+msgid "Icon Colour"
+msgstr "Accent Colour"
+
+#: includes/components.php:2443
+#, fuzzy
+#| msgid "Ticker Color"
+msgid "Border Colour"
+msgstr "Ticker Colour"
+
+#: includes/components.php:2445
+#, fuzzy
+#| msgid "Here you can define a custom color for the buttons."
+msgid "Here you can define a custom colour for the border."
+msgstr "Here you can define a custom colour for the buttons."
+
+#: includes/components.php:2449
+msgid "Use Icon Size"
+msgstr ""
+
+#: includes/components.php:2461
+msgid "Icon Size"
+msgstr ""
+
+#: includes/components.php:2625
+msgid "View all"
+msgstr ""
+
+#: includes/mharty-updater.php:380
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+
+#: includes/mharty-updater.php:380 includes/mharty-updater.php:545
+msgid "Try again"
+msgstr ""
+
+#: includes/mharty-updater.php:421
+msgid "An unknown error occurred"
+msgstr ""
+
+#: includes/mharty-updater.php:457
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+
+#: includes/mharty-updater.php:458
+msgid "Plugin reactivated successfully. "
+msgstr ""
+
+#: includes/mharty-updater.php:480
+msgid " Plugin Updates"
+msgstr ""
+
+#: includes/mharty-updater.php:519
+msgid "Username: "
+msgstr ""
+
+#: includes/mharty-updater.php:523
+msgid "Email: "
+msgstr ""
+
+#: includes/mharty-updater.php:529
+msgid "Key: "
+msgstr ""
+
+#: includes/mharty-updater.php:535
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+
+#: includes/mharty-updater.php:539
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+
+#: includes/mharty-updater.php:540
+msgid "Edit Key"
+msgstr ""
+
+#: includes/mharty-updater.php:544
+msgid "<p>Unable to validate update activation.</p>"
+msgstr ""
+
+#: includes/mharty-updater.php:550
+msgid "Add Key"
+msgstr ""
+
+#: includes/mharty-updater.php:636
+msgid "User name"
+msgstr ""
+
+#: includes/mharty-updater.php:642
+msgid "Email"
+msgstr ""
+
+#: includes/mharty-updater.php:651
+msgid "Activation Key"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Mharty - Magazine"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://mharty.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This extension will add four magazine components to MH Page Composer."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "mharty.com"
+msgstr ""
+
+#~ msgid ""
+#~ "Order by: Latest is your most recent articles, Popular which has more "
+#~ "comments, Title, or Random."
+#~ msgstr ""
+#~ "Order by: Latest - the most recent articles, Popular - the most "
+#~ "commented, Title, or Random."
+
+#~ msgid "Use the color picker to choose the background color for your ticker."
+#~ msgstr ""
+#~ "Use the colour picker to choose the background colour for your ticker."
+
+#~ msgid ""
+#~ "If you would like the slider to slide automatically, without the visitor "
+#~ "having to click the next button, enable this option and then adjust the "
+#~ "rotation speed below if desired."
+#~ msgstr ""
+#~ "If you would like the slider to play automatically, without the visitor "
+#~ "having to click the next button, enable this option and then adjust the "
+#~ "rotation speed below if desired."
+
+#~ msgid "This controls the how your text is aligned."
+#~ msgstr "This controls how your text is aligned."
+
+#~ msgid ""
+#~ "Here you can define whether to show the title on the slide image or not."
+#~ msgstr "Here you can define whether to show the title on the slide image."
+
+#~ msgid "Here you can define whether to show the post featured image or not."
+#~ msgstr "Here you can define whether to show the post featured image."
+
+#~ msgid ""
+#~ "Here you can define whether to show the category as a title or not. You "
+#~ "can define a custom title below."
+#~ msgstr ""
+#~ "Here you can define whether to show the category as a title, or you can "
+#~ "define a custom title below."
+
+#~ msgid "Here you can define whether to show the author avatar or not."
+#~ msgstr "Here you can define whether to show the author avatar."
+
+#~ msgid "Here you can define whether to show the author name or not."
+#~ msgstr "Here you can define whether to show the author name."
+
+#~ msgid "Here you can define a title for your ticker or leave empty."
+#~ msgstr "Here you can define a title for your ticker, or leave empty."
+
+#~ msgid "Here you can define whether to show categories links or not."
+#~ msgstr "Here you can define whether to show categories links."
+
+#~ msgid ""
+#~ "Here you can define whether to show excerpts or not. Some layouts does "
+#~ "not show excerpts."
+#~ msgstr ""
+#~ "Here you can define whether to show excerpts. Some layouts do not show "
+#~ "excerpts."
+
+#~ msgid ""
+#~ "Here you can define whether to show \"read more\" link after the excerpts "
+#~ "or not."
+#~ msgstr ""
+#~ "Here you can define whether to show “read more” link after the excerpts."
+
+#~ msgid ""
+#~ "Choose how many posts you would like to offset by. Numeric value only"
+#~ msgstr ""
+#~ "Choose by how many posts you would like to offset. Numeric value only"
+
+#~ msgid "Choose how much posts you would like to show."
+#~ msgstr "Choose how many posts you would like to show."
+
+#~ msgid ""
+#~ "Choose how many posts you would like to offset by. Numeric Value only"
+#~ msgstr ""
+#~ "Choose by how many posts you would like to offset. Numeric value only"
+
+#~ msgid "Here you can define a custom background color."
+#~ msgstr "Here you can define a custom background colour."
+
+#~ msgid "Here you can define a custom color."
+#~ msgstr "Here you can define a custom colour."
+
+#~ msgid "For parallel and button style you can define a custom color."
+#~ msgstr "For parallel and button style you can define a custom colour."
+
+#~ msgid "Center"
+#~ msgstr "Centre"
+
+#~ msgid "Text Color"
+#~ msgstr "Text Colour"
+
+#~ msgid "Background Color"
+#~ msgstr "Background Colour"
+
+#~ msgid "Buttons Text Color"
+#~ msgstr "Buttons Text Colour"

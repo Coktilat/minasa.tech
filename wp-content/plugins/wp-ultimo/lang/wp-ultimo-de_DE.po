@@ -1,0 +1,1093 @@
+# Translation of WP Ultimo in German
+# This file is distributed under the same license as the WP Ultimo package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-13 11:49:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: de\n"
+"Project-Id-Version: WP Ultimo\n"
+
+#: ../inc/class-wu-site-hooks.php:183
+msgid "Your WP Ultimo settings are configured to <strong>prevent search engines such as Google from indexing your template sites</strong>. This can have inadvertent effects on other sites on the network and should only be used if you are sure about what you are doing."
+msgstr ""
+
+#: ../inc/class-wu-site-hooks.php:185
+msgid "If you are experiencing negative SEO impacts on other sites in your network, consider disabling this setting <a href=\"%s\">here</a>."
+msgstr ""
+
+#: ../inc/class-wu-broadcasts-list-table.php:164
+msgid "Style"
+msgstr ""
+
+#: ../inc/class-wu-login.php:157
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: ../inc/class-wu-site-hooks.php:180
+msgid "WP Ultimo - Notifications"
+msgstr ""
+
+#: ../inc/class-wu-widgets.php:284
+msgid "Community Forums"
+msgstr ""
+
+#: ../inc/class-wu-widgets.php:289
+msgid "From the Blog"
+msgstr ""
+
+#: ../inc/class-wu-widgets.php:317 ../inc/class-wu-widgets.php:337
+msgid "Error loading external feed."
+msgstr ""
+
+#: ../inc/class-wu-widgets.php:327
+msgid "WP Ultimo Blog"
+msgstr ""
+
+#: ../inc/class-wu-subscriptions.php:693
+msgid "You must define a valid subscription price."
+msgstr ""
+
+#: ../views/widgets/subscriptions/edit/billing-history.php:75
+msgid "Date (click to pick)"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:456
+msgid "Status: License no longer valid - Canceled or Expired"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1545
+msgid "Other"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1551
+msgid "Remove Transients"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1552
+msgid "Transients are temporary entries on the database. We use them to store the signup information of your users why they are navigating the multi-step signup flow. We only keep them on the databse for a limited amount of time (40 minutes by default), but you can use this to clean them up if you need to."
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1553
+msgid "Remove WP Ultimo Transients"
+msgstr ""
+
+#: ../inc/class-wu-site-hooks.php:213
+msgid "%s row(s) removed successfuly from the transients table."
+msgstr ""
+
+#: ../inc/class-wu-site-hooks.php:222
+msgid "An error occurred."
+msgstr ""
+
+#: ../views/meta/addons.php:64
+msgid "Premium"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1037
+msgid "Allow Users to use their own Sites as Templates"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1038
+msgid "Enabling this option will add the user own sites to the template screen, allowing them to create a new site based on the content and customizations they made previously."
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1146
+msgid "Keep posts as is (do nothing)"
+msgstr ""
+
+#: ../inc/class-wu-domain-mapping.php:744
+msgid "This domain name is not valid."
+msgstr ""
+
+#: ../inc/class-wu-pages-add-new-subscription.php:175
+msgid "Add New Subscrition"
+msgstr ""
+
+#: ../inc/class-wu-pages-edit-coupon.php:155
+msgid "Coupon Settings"
+msgstr ""
+
+#: ../inc/class-wu-pages-edit.php:145
+msgid "Edit Object"
+msgstr ""
+
+#: ../inc/class-wu-pages-edit.php:146
+msgid "Add New Object"
+msgstr ""
+
+#: ../inc/class-wu-pages-edit.php:147
+msgid "Object updated with success!"
+msgstr ""
+
+#: ../inc/class-wu-pages-edit.php:148
+msgid "Enter Object Name"
+msgstr ""
+
+#: ../inc/class-wu-pages-feature-plugins.php:400
+#: ../inc/class-wu-pages-feature-plugins.php:401
+#: ../views/meta/feature-plugins.php:39
+msgid "Feature Plugins"
+msgstr ""
+
+#: ../inc/class-wu-pages-list-subscriptions.php:62
+msgid "Subscription successfully deleted!"
+msgstr ""
+
+#: ../inc/class-wu-pages-list-subscriptions.php:88
+msgid "All Subscriptions"
+msgstr ""
+
+#: ../inc/class-wu-pages-list.php:161
+msgid "Object removed successfully."
+msgstr ""
+
+#: ../inc/class-wu-pages-list.php:162
+msgid "Search Object"
+msgstr ""
+
+#: ../inc/class-wu-pages.php:135 ../inc/class-wu-pages.php:136
+msgid "Admin Page"
+msgstr ""
+
+#: ../inc/class-wu-plans-limits.php:1200
+msgid "Waiting for payment confirmation from %s. This can take a few minutes..."
+msgstr ""
+
+#: ../inc/class-wu-plans-limits.php:1204
+msgid "Waiting for payment confirmation. This can take a few minutes..."
+msgstr ""
+
+#: ../inc/class-wu-plans-list-table.php:97
+msgid "%s (Copy)"
+msgstr ""
+
+#: ../inc/class-wu-plans-list-table.php:225
+msgid "Duplicate"
+msgstr ""
+
+#: ../inc/class-wu-plans.php:137
+msgid "Oh, no! Coupons Codes are disabled!"
+msgstr ""
+
+#: ../inc/class-wu-plans.php:137
+msgid "You can go to your the WP Ultimo &rarr; Network Settings page and turn it on."
+msgstr ""
+
+#: ../inc/class-wu-plans.php:137
+msgid "Go to your Settings Page &rarr;"
+msgstr ""
+
+#: ../inc/class-wu-plans.php:631
+msgid "quaterly"
+msgstr ""
+
+#: ../inc/class-wu-plans.php:661
+msgid "You must enter a valid contact us link for this plan."
+msgstr ""
+
+#: ../inc/class-wu-site-hooks.php:644
+msgid "You cannot switch templates using this own site as a base template."
+msgstr ""
+
+#: ../inc/class-wu-ui-elements.php:231
+msgid "Shortcodes"
+msgstr ""
+
+#: ../inc/gateways/class-wu-gateway-stripe.php:1384
+msgid "Collect Billing Address"
+msgstr ""
+
+#: ../inc/gateways/class-wu-gateway-stripe.php:1385
+msgid "Enabling this option will add the Billing Address step to the Stripe Checkout form. This information will also be saved by WP Ultimo."
+msgstr ""
+
+#: ../inc/gateways/class-wu-gateway.php:467
+msgid "You cannot change to your current plan with the same billing frequency."
+msgstr ""
+
+#: ../inc/models/wu-plan.php:661
+msgid "Contact Us to know more"
+msgstr ""
+
+#: ../inc/wu-pluggable.php:122
+msgid "You should specify a nonce action to be verified by using the first parameter."
+msgstr ""
+
+#: ../views/help/tab-wu-intro.php:1
+msgid "Introduction to WP Ultimo"
+msgstr ""
+
+#: ../views/help/tab-wu-intro.php:3
+msgid "Watch a tour of the entire WP Ultimo settings and functionality on video!"
+msgstr ""
+
+#: ../views/help/tab-wu-intro.php:4
+msgid "We recorded a complete walk-through of WP Ultimo’s Settings page and Functionality! Click the button below to watch it."
+msgstr ""
+
+#: ../views/help/tab-wu-intro.php:8
+msgid "Watch WP Ultimo Overview"
+msgstr ""
+
+#: ../views/meta/feature-plugins.php:17
+msgid "Installing Feature Plugin"
+msgstr ""
+
+#: ../views/meta/feature-plugins.php:20
+msgid "Search available feature plugin"
+msgstr ""
+
+#: ../views/meta/feature-plugins.php:21
+msgid "Search available feature plugin..."
+msgstr ""
+
+#: ../views/meta/feature-plugins.php:23
+msgid "No feature plugin found. Try a different search."
+msgstr ""
+
+#: ../views/meta/feature-plugins.php:44
+msgid "Feature Plugins are temporary plugins holding features that are being considered to be incorporated into WP Ultimo's core. <br>By having them separated into a single entity at first, we can make sure it does not break backwards compatibility and that it is easier to test and isolate failures."
+msgstr ""
+
+#: ../views/meta/feature-plugins.php:51
+msgid "All Feature Plugins"
+msgstr ""
+
+#: ../views/meta/feature-plugins.php:94 ../views/meta/feature-plugins.php:171
+msgid "Feature Plugin Details"
+msgstr ""
+
+#: ../views/meta/feature-plugins.php:120 ../views/meta/feature-plugins.php:200
+#: ../views/meta/feature-plugins.php:276
+msgid "Buy This Feature Plugin"
+msgstr ""
+
+#: ../views/signup/pricing-table/plan.php:63
+msgid "--"
+msgstr ""
+
+#: ../views/signup/steps/step-template.php:209
+#: ../views/signup/steps/step-template.php:281
+msgid "Your Site"
+msgstr ""
+
+#: ../views/widgets/plan/advanced-options.php:33
+msgid "Plan Slug"
+msgstr ""
+
+#: ../views/widgets/plan/advanced-options.php:119
+msgid "Override Templates"
+msgstr ""
+
+#: ../views/widgets/plan/advanced-options.php:122
+msgid "Check this box if you want to select which templates will be available to this plan."
+msgstr ""
+
+#: ../views/widgets/plan/prices.php:22
+msgid "Is this a <em>Contact Us</em> plan?"
+msgstr ""
+
+#: ../views/widgets/plan/prices.php:79
+msgid "This will be used on the pricing table button for this plan."
+msgstr ""
+
+#: ../views/widgets/plan/prices.php:89
+msgid "The user will be redirected to this URL when he clicks on the CTA button."
+msgstr ""
+
+#: ../views/widgets/plan/prices.php:92
+msgid "Contact Page Link"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:667
+msgid "Error Reporting"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:668
+msgid "Help us make WP Ultimo better by automatically reporting fatal errors and warnings so we can fix them as soon as possible."
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:673
+msgid "Send Error Data to WP Ultimo Developers"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:674
+msgid "With this option enabled, every time your installation runs into an error related to WP Ultimo, that error data will be sent to us. That way we can review, debug, and fix issues without you having to manually report anything. No sensitive data gets collected, only environmental stuff (e.g. if this is this is a subdomain network, etc)."
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:875
+msgid "Add Users to the Main Site as well?"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:876
+msgid "Enabling this option will also add the user to the main site of your network."
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:883
+msgid "Add to Main Site with Role..."
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:884
+msgid "Select the role WP Ultimo should use when adding the user to the main site of your network. Be careful."
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:959
+msgid "Terms of Service Type"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:960
+msgid "Content Editor will display an editor where you will be able to add your terms. WP Ultimo will serve them in a custom page. You can also use the External URL option to point the terms link to a specific link of your choosing."
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:965
+msgid "Content Editor"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:966
+msgid "External URL"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:996
+msgid "Terms External URL"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:997
+msgid "External URL for your Terms aof Services."
+msgstr ""
+
+#: ../views/meta/about.php:39
+msgid "Community & Support"
+msgstr ""
+
+#: ../views/meta/about.php:45
+msgid "Join our Forums!"
+msgstr ""
+
+#: ../views/meta/about.php:46
+msgid "Discuss your ideas and questions with other members creating their own networks!"
+msgstr ""
+
+#: ../views/meta/about.php:47
+msgid "Visit the Forums &rarr;"
+msgstr ""
+
+#: ../views/meta/about.php:51
+msgid "Read our Knowledge Base"
+msgstr ""
+
+#: ../views/meta/about.php:52
+msgid "We have a pretty extensive list of tutorials available to help you get started!"
+msgstr ""
+
+#: ../views/meta/about.php:53
+msgid "Visit the Knowledge Base &rarr;"
+msgstr ""
+
+#: ../views/meta/about.php:57
+msgid "Roadmap"
+msgstr ""
+
+#: ../views/meta/about.php:58
+msgid "Our roadmap is public and you get to suggest and vote for features you would like to see implemented!"
+msgstr ""
+
+#: ../views/meta/about.php:59
+msgid "View the Roadmap &rarr;"
+msgstr ""
+
+#: ../inc/models/wu-plan.php:276 ../views/meta/about.php:63
+#: ../views/widgets/plan/prices.php:85
+msgid "Contact Us"
+msgstr ""
+
+#: ../views/meta/about.php:64
+msgid "If you are having an issue with WP Ultimo that you are not being able to sort out, send us a note and we will help you right away."
+msgstr ""
+
+#: ../views/meta/about.php:65
+msgid "Send us a Message &rarr;"
+msgstr ""
+
+#: ../views/meta/about.php:75
+msgid "Complete Changelog"
+msgstr ""
+
+#: ../views/meta/about.php:76
+msgid "The complete history of WP Ultimo versions up to this date."
+msgstr ""
+
+#: ../inc/class-wu-pages-about.php:44 ../inc/class-wu-pages-about.php:58
+msgid "Error retrieving the changelog."
+msgstr ""
+
+#: ../views/meta/about.php:85
+msgid "Go to Dashboard"
+msgstr ""
+
+#: ../views/meta/system-info.php:66
+msgid "%s seconds"
+msgstr ""
+
+#: ../views/meta/system-info.php:117
+msgid "PHP Max Execution Time"
+msgstr ""
+
+#: ../views/meta/system-info.php:118
+msgid "PHP Allow URL Fopen"
+msgstr ""
+
+#: ../views/meta/system-info.php:119
+msgid "PHP Max File Uploads"
+msgstr ""
+
+#: ../views/meta/system-info.php:131
+msgid "DISABLE_WP_CRON"
+msgstr ""
+
+#: ../views/meta/system-info.php:132
+msgid "WPLANG"
+msgstr ""
+
+#: ../views/meta/system-info.php:134
+msgid "WP_MEMORY_LIMIT"
+msgstr ""
+
+#: ../views/meta/system-info.php:135
+msgid "WP_MAX_MEMORY_LIMIT"
+msgstr ""
+
+#: ../views/widgets/subscriptions/edit/sites-list.php:55
+msgid "Created at: %s"
+msgstr ""
+
+#: ../views/webhooks/list.php:31
+msgid "Created by"
+msgstr ""
+
+#: ../views/help/tab-wu-shortcodes.php:7
+msgid "The parameter <strong>templates</strong> can also be passed with a comma-separated list of template ids."
+msgstr ""
+
+#: ../views/meta/about.php:3
+msgid "You are using WP Ultimo!"
+msgstr ""
+
+#: ../views/meta/about.php:6
+msgid "Thank you for using WP Ultimo to build your premium network! This page explains the motives behing WP Ultimo and lists some useful information for you!"
+msgstr ""
+
+#: ../views/meta/about.php:12
+msgid "About WP Ultimo"
+msgstr ""
+
+#: ../views/meta/about.php:13
+msgid "Credits"
+msgstr ""
+
+#: ../views/meta/about.php:14
+msgid "Changelog"
+msgstr ""
+
+#: ../views/meta/about.php:23
+msgid "The Goal:"
+msgstr ""
+
+#: ../views/meta/about.php:23
+msgid "A <strong>Complete</strong> Solution"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1567
+#: ../inc/class-wu-admin-settings.php:1568 ../inc/class-wu-ui-elements.php:351
+msgid "Export & Import"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:854
+msgid "Auto-login users after Registration"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:855
+msgid "Checking this option will automatically login users after the registration is finished. Disabling it will force your users to login with their recently created credentials."
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1156
+msgid "Block Sites on Downgrade"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1157
+msgid "Choose how WP Ultimo should handle client sites above their plan quota on downgrade."
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1163
+msgid "Block only frontend access"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1164
+msgid "Block only backend access"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1165
+msgid "Block both frontend and backend access"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1572
+msgid "Export Settings"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1573
+msgid "Use the button below to generate a bundle .zip file with all your settings from WP Ultimo, including plans, coupons, and broadcasts."
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1573
+msgid "Subscriptions and Transactions are not included on the export file."
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1578
+msgid "Export WP Ultimo Settings"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1583
+msgid "Import Settings"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1594
+msgid "Partial Import"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1595
+msgid "If you want to import only some of WP Ultimo's data sets, check this box to select which ones."
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1602
+msgid "Data Sets"
+msgstr ""
+
+#: ../inc/class-wu-admin-settings.php:1603
+msgid "Select which data sets you want to import."
+msgstr ""
+
+#: ../inc/class-wu-api.php:98
+msgid "API Settings"
+msgstr ""
+
+#: ../inc/class-wu-api.php:99
+msgid "Handles WP Ultimo integrations with third-party services, via the API."
+msgstr ""
+
+#: ../inc/class-wu-api.php:104 ../inc/class-wu-api.php:112
+msgid "Enable API"
+msgstr ""
+
+#: ../inc/class-wu-api.php:105 ../inc/class-wu-api.php:113
+msgid "Tick this box if you want WP Ultimo to add its own endpoints to the WordPress REST API. This is required for some integrations to work, most notabily, Zapier."
+msgstr ""
+
+#: ../inc/class-wu-api.php:120
+msgid "API Key"
+msgstr ""
+
+#: ../inc/class-wu-api.php:121
+msgid "This is your API Key. You cannot change it directly. To reset the API key and secret, use the button \"Refresh API credentials\" below."
+msgstr ""
+
+#: ../inc/class-wu-api.php:122 ../inc/class-wu-api.php:135
+msgid "Copy to clipboard"
+msgstr ""
+
+#: ../inc/class-wu-api.php:133
+msgid "API Secret"
+msgstr ""
+
+#: ../inc/class-wu-api.php:134
+msgid "Reveal"
+msgstr ""
+
+#: ../inc/class-wu-api.php:134
+msgid "Refresh API credentials"
+msgstr ""
+
+#: ../inc/class-wu-api.php:146
+msgid "Log API calls (Advanced)"
+msgstr ""
+
+#: ../inc/class-wu-api.php:147
+msgid "Tick this box if you want to log all calls received via WP Ultimo API endpoints. You can access the logs on WP Ultimo &rarr; System Info &rarr; Logs."
+msgstr ""
+
+#: ../inc/class-wu-api.php:310
+msgid "Welcome to our API"
+msgstr ""
+
+#: ../inc/class-wu-customizer.php:383 ../inc/class-wu-customizer.php:395
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/class-wu-customizer.php:396
+msgid "Enter custom CSS you want to include on the sign-up and login screens of WP Ultimo."
+msgstr ""
+
+#: ../inc/class-wu-domain-mapping-hosting-support.php:178
+msgid "A error happening trying to get the current list of domains: %s"
+msgstr ""
+
+#: ../inc/class-wu-domain-mapping-hosting-support.php:300
+msgid "Mapped Domain Status"
+msgstr ""
+
+#: ../inc/class-wu-domain-mapping-hosting-support.php:300
+msgid "Check Domain Status &rarr;"
+msgstr ""
+
+#: ../inc/class-wu-domain-mapping.php:301
+msgid "Works automatically (including AutoSSL) - no additional set-up required."
+msgstr ""
+
+#: ../inc/class-wu-domain-mapping.php:327
+msgid "Works automatically, but <strong>requires additional set-up. Supports auto-SSL!</strong>"
+msgstr ""
+
+#: ../inc/class-wu-exporter-importer.php:83
+msgid "Importing settings and data sets will erase your current configuration to install the new versions. This action is not reversible!"
+msgstr ""
+
+#: ../inc/class-wu-exporter-importer.php:116
+msgid "Select your bundle .zip file below and click \"Save Changes\" to import."
+msgstr ""
+
+#: ../inc/class-wu-exporter-importer.php:117
+msgid "If you want to select which data sets you would like to import, check the \"Partial Import\" below to see what options are available"
+msgstr ""
+
+#: ../inc/class-wu-exporter-importer.php:118
+msgid "Please keep in mind that that if you choose to import plans, coupons and/or broadcasts, all the existing data on those categories will be wiped out from your install. This is IRREVERSIBLE, so be careful"
+msgstr ""
+
+#: ../inc/class-wu-exporter-importer.php:178
+msgid "There was an error during the import process..."
+msgstr ""
+
+#: ../inc/class-wu-exporter-importer.php:184
+msgid "Your settings were successfully imported!"
+msgstr ""
+
+#: ../inc/class-wu-exporter-importer.php:385
+msgid "There was an error importing the settings due to a JSON parser issue: %s"
+msgstr ""
+
+#: ../inc/class-wu-exporter-importer.php:584
+msgid "An error occurred while generating the export."
+msgstr ""
+
+#: ../inc/class-wu-exporter-importer.php:660
+msgid "WP Ultimo was unable to create the zip file containing the export data."
+msgstr ""
+
+#: ../inc/class-wu-exporter-importer.php:675
+msgid "WP Ultimo was unable to re-write the zip file containing the export data."
+msgstr ""
+
+#: ../inc/class-wu-plans-limits.php:737
+msgid "You need to upgrade your account to a higher tier to regain access to this site. <a href=\"%s\">Upgrade your account</a>."
+msgstr ""
+
+#: ../inc/class-wu-plans-limits.php:737
+msgid " <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: ../inc/class-wu-plans-limits.php:737
+msgid "See your sites"
+msgstr ""
+
+#: ../inc/class-wu-plans-limits.php:737
+msgid "Site Unavailable"
+msgstr ""
+
+#: ../inc/class-wu-site-hooks.php:336 ../inc/class-wu-site-hooks.php:359
+msgid "Your Sites"
+msgstr ""
+
+#: ../inc/class-wu-webhooks.php:121
+msgid "Invalid Plan"
+msgstr "Ungültiger Plan"
+
+#: ../inc/mercator/inc/admin/class-alias-list-table.php:200
+msgid "Deactivate"
+msgstr ""
+
+#: ../inc/wu-countries.php:183
+msgid "Norway"
+msgstr "Norwegen"
+
+#: ../views/meta/header.php:12
+msgid "Server Time:"
+msgstr "Serverzeit:"
+
+#: ../views/widgets/subscriptions/add-new/user-selector.php:17
+msgid "Select the User you want to create a subscription for"
+msgstr "Wählen Sie den Benutzer aus, für den Sie ein Abonnement erstellen möchten"
+
+#: ../inc/class-wu-api.php:379 ../inc/class-wu-webhooks.php:411
+msgid "An event named %s is not registered."
+msgstr "Ein Ereignis namens% s ist nicht registriert."
+
+#: ../inc/class-wu-plans-list-table.php:223
+#: ../inc/mercator/inc/admin/class-alias-list-table.php:221
+#: ../views/webhooks/list.php:59
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../inc/wu-countries.php:184
+msgid "Oman"
+msgstr "Oman"
+
+#: ../views/meta/jumper.php:11
+msgid "Type and press Enter"
+msgstr "Geben Sie ein und drücken Sie die Eingabetaste"
+
+#: ../views/widgets/subscriptions/add-new/user-selector.php:22
+msgid "Select a Plan to assign to newly created subscription"
+msgstr "Wählen Sie einen Plan aus, der dem neu erstellten Abonnement zugewiesen werden soll"
+
+#: ../inc/class-wu-pages-webhooks.php:114
+#: ../inc/class-wu-pages-webhooks.php:147
+#: ../inc/class-wu-pages-webhooks.php:148 ../inc/class-wu-webhooks.php:491
+#: ../views/webhooks/list.php:4
+msgid "Webhooks"
+msgstr "Webhooks"
+
+#: ../inc/mercator/inc/cli/class-mapping-command.php:79
+#: ../inc/mercator/inc/cli/class-mapping-command.php:102
+#: ../inc/mercator/inc/cli/class-network-mapping-command.php:79
+#: ../inc/mercator/inc/cli/class-network-mapping-command.php:102
+msgid "Invalid mapping ID"
+msgstr ""
+
+#: ../inc/wu-countries.php:185
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: ../views/meta/jumper.php:18
+msgid "Click to rebuild menu list"
+msgstr "Klicken Sie, um die Menüliste neu zu erstellen"
+
+#: ../views/webhooks/list.php:5 ../views/webhooks/list.php:157
+msgid "Add new Webhook"
+msgstr "Füge einen neuen Webhook hinzu"
+
+#: ../inc/class-wu-pages-webhooks.php:78
+msgid "Want to integrate WP Ultimo with Zapier?"
+msgstr "Möchten Sie WP Ultimo mit Zapier integrieren?"
+
+#: ../inc/mercator/inc/cli/class-mapping-command.php:111
+#: ../inc/mercator/inc/cli/class-network-mapping-command.php:111
+msgid "Could not delete mapping"
+msgstr ""
+
+#: ../inc/wu-countries.php:186
+msgid "Palestinian Territory"
+msgstr "Palästinensisches Gebiet"
+
+#: ../views/meta/jumper.php:37
+msgid "Redirecting you to the target page..."
+msgstr "Sie auf die Zielseite umleiten ..."
+
+#: ../views/webhooks/list.php:6
+msgid "Webhook Settings"
+msgstr "Webhook-Einstellungen"
+
+#: ../inc/class-wu-pages-webhooks.php:92
+msgid "Webhooks are currently disabled and will not be triggered."
+msgstr "Webhooks sind derzeit deaktiviert und werden nicht ausgelöst."
+
+#: ../inc/mercator/mercator.php:282
+msgid "Unable to delete mapping %d for site %d"
+msgstr ""
+
+#: ../inc/wu-countries.php:187
+msgid "Panama"
+msgstr "Panama"
+
+#: ../views/account/my-account.php:29
+msgid "Select which plan you want to change to."
+msgstr "Wählen Sie den Plan aus, zu dem Sie wechseln möchten."
+
+#: ../views/webhooks/list.php:9
+msgid "Webhooks are a easy way to connect your WP Ultimo network to the outside world. Every major event inside WP Ultimo (new subscriptions, signups, cancelations, upgrades, etc) fire webhook calls that can communicate that information to third-party applications like a CRM or services like Zapier, for example."
+msgstr "Webhooks sind eine einfache Möglichkeit, Ihr WP Ultimo-Netzwerk mit der Außenwelt zu verbinden. Jedes wichtige Ereignis in WP Ultimo (neue Abonnements, Anmeldungen, Stornierungen, Upgrades usw.) löst Webhook-Aufrufe aus, die diese Informationen an Anwendungen von Drittanbietern, wie z. B. ein CRM oder Dienste wie Zapier, weitergeben können."
+
+#: ../inc/class-wu-pages-webhooks.php:94
+msgid "Enable Webhook on the Settings page &rarr;"
+msgstr "Aktivieren Sie den Webhook auf der Seite Einstellungen & rarrr;"
+
+#: ../inc/mercator/sso.php:469
+msgid "Could not save token to database"
+msgstr ""
+
+#: ../inc/wu-countries.php:188
+msgid "Papua New Guinea"
+msgstr "Papua New Guinea"
+
+#: ../views/account/my-account.php:71
+msgid "Are you sure you want to change your current plan to <strong>%s</strong>, billed every <strong>%s months</strong>?"
+msgstr "Sind Sie sicher, dass Sie Ihren aktuellen Plan auf <strong>%s</strong> ändern möchten, berechnet alle <strong>%s Monate</strong>?"
+
+#: ../views/webhooks/list.php:25 ../views/webhooks/list.php:145
+msgid "Select All"
+msgstr "Wählen Sie Alle"
+
+#: ../inc/class-wu-pages-webhooks.php:56
+msgid "An unexpected error happened"
+msgstr "Ein unerwarteter Fehler ist aufgetreten"
+
+#: ../inc/models/wu-plan.php:666
+#: ../views/widgets/subscriptions/edit/setup-fee.php:24
+msgid "Setup Fee: %s"
+msgstr "Einrichtungsgebühr:% s"
+
+#: ../inc/wu-countries.php:189
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: ../views/account/my-account.php:92
+msgid "Here is a summary of your Account Status and Plan Settings."
+msgstr "Hier finden Sie eine Zusammenfassung Ihrer Kontostatus- und Planeinstellungen."
+
+#: ../views/webhooks/list.php:30 ../views/webhooks/list.php:97
+#: ../views/webhooks/list.php:99 ../views/webhooks/list.php:150
+msgid "Event"
+msgstr "Veranstaltung"
+
+#: ../inc/class-wu-pages-webhooks.php:57
+msgid "Try again later"
+msgstr "Versuchen Sie es später noch einmal"
+
+#: ../inc/models/wu-plan.php:695
+msgid "No %s"
+msgstr "Nein% s"
+
+#: ../inc/wu-countries.php:190
+msgid "Peru"
+msgstr "Peru"
+
+#: ../views/account/my-account.php:116
+msgid "Your integration was removed successfuly."
+msgstr "Ihre Integration wurde erfolgreich entfernt."
+
+#: ../views/webhooks/list.php:32 ../views/webhooks/list.php:151
+msgid "Sent Events"
+msgstr "Gesendete Ereignisse"
+
+#: ../inc/class-wu-pages-webhooks.php:58
+msgid "New Webhook"
+msgstr "Neuer Webhook"
+
+#: ../inc/models/wu-plan.php:705 ../inc/models/wu-plan.php:725
+#: ../inc/models/wu-plan.php:750
+#: ../views/widgets/account/account-statistics.php:63
+#: ../views/widgets/account/limits-and-quotas.php:54
+#: ../views/widgets/account/limits-and-quotas.php:81
+#: ../views/widgets/account/limits-and-quotas.php:102
+#: ../views/widgets/subscriptions/edit/sites-list.php:33
+msgid "Unlimited"
+msgstr "Unbegrenzt"
+
+#: ../inc/wu-countries.php:191
+msgid "Philippines"
+msgstr "Philippinen"
+
+#: ../views/account/my-account.php:122
+msgid "Your plan was changed successfuly."
+msgstr "Ihr Plan wurde erfolgreich geändert."
+
+#: ../views/webhooks/list.php:47
+msgid "No Webhooks created so far"
+msgstr "Bisher wurden keine Webhooks erstellt"
+
+#: ../inc/class-wu-pages-webhooks.php:59
+msgid "Test Event Sent!"
+msgstr "Test-Ereignis gesendet!"
+
+#: ../inc/models/wu-plan.php:728
+msgid "Site"
+msgid_plural "Sites"
+msgstr[0] "Website"
+msgstr[1] "Websites"
+
+#: ../inc/wu-countries.php:192
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: ../views/account/my-account.php:128
+msgid "Refund given with success."
+msgstr "Rückerstattung mit Erfolg gegeben."
+
+#: ../views/webhooks/list.php:56
+msgid "Sending..."
+msgstr "Senden ..."
+
+#: ../inc/class-wu-pages-webhooks.php:60
+msgid "Response got from the remote server:"
+msgstr "Response got from the remote server:"
+
+#: ../inc/models/wu-plan.php:740
+msgid "%s <strong>Disk Space</strong>"
+msgstr "%s <strong>Speicherplatz</strong>"
+
+#: ../inc/wu-countries.php:193
+msgid "Poland"
+msgstr "Poland"
+
+#: ../views/meta/statistics.php:9
+msgid "Statistics - WP Ultimo"
+msgstr "Statistiken - WP Ultimo"
+
+#: ../views/webhooks/list.php:60
+msgid "Event Logs"
+msgstr "Ereignisprotokolle"
+
+#: ../inc/class-wu-webhooks.php:477
+msgid "Integrations"
+msgstr "Integrationen"
+
+#: ../inc/models/wu-plan.php:753
+msgid "Visit per month"
+msgid_plural "Visits per month"
+msgstr[0] "Besuch pro Monat"
+msgstr[1] "Besuche pro Monat"
+
+#: ../inc/wu-countries.php:194
+msgid "Portugal"
+msgstr "Portugal"
+
+#: ../views/meta/statistics.php:10
+msgid "Here are some cool statistics about your network usage and growth!"
+msgstr ""
+
+#: ../views/webhooks/list.php:60
+msgid "See Events"
+msgstr "Siehe Ereignisse"
+
+#: ../inc/class-wu-webhooks.php:478 ../inc/class-wu-webhooks.php:492
+msgid "Handles WP Ultimo integrations with third-party services."
+msgstr "Handles WP Ultimo Integration mit Drittanbieter-Diensten."
+
+#: ../inc/models/wu-plan.php:767
+msgid "%s day <strong>free trial</strong>"
+msgstr "%s Tage <strong>kostenlose Testversion</strong>"
+
+#: ../inc/wu-countries.php:195
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: ../views/meta/statistics.php:25
+msgid "From"
+msgstr "Von"
+
+#: ../views/webhooks/list.php:61
+msgid "Send Test Event"
+msgstr "Test-Ereignis senden"
+
+#: ../inc/class-wu-webhooks.php:483
+msgid "Enable Webhooks"
+msgstr "Aktivieren Sie Webhooks"
+
+#: ../inc/models/wu-subscription.php:938
+msgid "Free subscription. It never expires."
+msgstr "Kostenloses Abonnement Es läuft nie ab."
+
+#: ../inc/wu-countries.php:196
+msgid "Qatar"
+msgstr "Qatar"
+
+#: ../views/meta/statistics.php:26
+msgid "To"
+msgstr "Zu"
+
+#: ../views/webhooks/list.php:62
+msgid "Delete Webhook"
+msgstr "Webhook löschen"
+
+#: ../inc/class-wu-webhooks.php:484
+msgid "Tick this box if you want WP Ultimo to send event calls to webhooks. This is useful to allow integrations with services like Zapier, for example."
+msgstr "Aktivieren Sie dieses Kontrollkästchen, wenn WP Ultimo Ereignisanrufe an Webhooks senden soll. Dies ist nützlich, um beispielsweise Integrationen mit Diensten wie Zapier zu ermöglichen."
+
+#: ../inc/models/wu-subscription.php:945
+msgid "Free subscription (via coupon code). It never expires."
+msgstr "Kostenloses Abonnement (über Gutscheincode). Es läuft nie ab."
+
+#: ../inc/wu-countries.php:197
+msgid "Reunion"
+msgstr "Wiedervereinigung"
+
+#: ../views/meta/statistics.php:27
+msgid "Filter"
+msgstr "Filter"
+
+#: ../views/webhooks/list.php:83
+msgid "Edit Webhook"
+msgstr "Bearbeiten Sie den Web-Hook"
+
+#: ../inc/class-wu-webhooks.php:492
+msgid "Edit Webhooks &rarr;"
+msgstr "Edit Webhooks &rarr;"
+
+#: ../inc/models/wu-subscription.php:954 ../inc/models/wu-subscription.php:959
+msgid "%s remaining"
+msgstr "% s übrig"
+
+#: ../inc/wu-countries.php:198
+msgid "Romania"
+msgstr "Rumänien"
+
+#: ../views/meta/system-info.php:7
+msgid "System Info - WP Ultimo"
+msgstr "Systeminfo - WP Ultimo"
+
+#: ../views/webhooks/list.php:101
+msgid "Select Event"
+msgstr "Wählen Sie Veranstaltung"
+
+#: ../inc/class-wu-webhooks.php:498
+msgid "Wait for Response (Advanced)"
+msgstr "Auf Antwort warten (erweitert)"
+
+#: ../inc/models/wu-subscription.php:959
+msgid "Expired %s ago"
+msgstr "Abgelaufen vor% s"
+
+#: ../inc/wu-countries.php:199
+msgid "Russia"
+msgstr "Russia"
+
+#: ../views/meta/system-info.php:16
+msgid "Your <strong>%s</strong> directory does not seem to be writable. WP Ultimo will not be able to log important information about payment gateways and cron jobs. To fix that problem, change the permissions of the uploads folder to 755. You can check the status of the directory on the box below."
+msgstr "Dein <strong>%s</strong>-Verzeichnis scheint nicht beschreibbar zu sein. WP Ultimo wird nicht in der Lage sein, wichtige Informationen über Zahlungs-Gateways und Cron-Jobs zu erfassen. Um dieses Problem zu beheben, ändern Sie die Berechtigungen des Verzeichnisses auf 755. Sie können den Status des Verzeichnisses über das untenstehende Feld überprüfen."
+
+#: ../views/webhooks/list.php:130
+msgid "Save"
+msgstr "sparen"
+
+#: ../inc/class-wu-webhooks.php:499
+msgid "Tick this box if you want the WP Ultimo's webhook calls to wait for the remote server to respond. Keeping this option enabled can have huge effects on your network's performance, only enable it if you know what you are doing and need to debug webhook calls."
+msgstr "Aktivieren Sie dieses Kontrollkästchen, wenn die Webhook-Aufrufe von WP Ultimo auf die Antwort des Remote-Servers warten sollen. Wenn diese Option aktiviert ist, kann dies enorme Auswirkungen auf die Leistung Ihres Netzwerks haben. Aktivieren Sie diese Option nur, wenn Sie wissen, was Sie tun, und Webhook-Aufrufe debuggen müssen."
+
+#: ../inc/models/wu-subscription.php:1157
+msgid "No coupon code applied to this account."
+msgstr "Kein Gutscheincode für dieses Konto."
+
+#: ../inc/wu-countries.php:200
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: ../views/meta/system-info.php:21
+msgid "Check your system running WP Ultimo."
+msgstr "Überprüfen Sie Ihr System mit WP Ultimo."
+
+#: ../views/webhooks/list.php:152
+msgid "Active?"
+msgstr "Aktiv?"
+
+#: ../inc/class-wu-webhook

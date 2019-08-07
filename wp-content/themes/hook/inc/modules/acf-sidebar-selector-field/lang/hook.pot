@@ -1,0 +1,398 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hook\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-14 20:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:50
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:53
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../hook/comments.php:44
+msgid "&larr; Older comments"
+msgstr ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:156
+msgid "'Show all work' trigger"
+msgstr ""
+
+#: ../hook/404.php:15
+msgid "404"
+msgstr ""
+
+#: ../hook/inc/widgets.php:38
+msgid "Above Menu - Left Sidebar"
+msgstr ""
+
+#: ../hook/inc/widgets.php:46
+msgid "Above Menu - Right Sidebar"
+msgstr ""
+
+#: ../hook/functions.php:344
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../hook/functions.php:347
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../hook/inc/dashboard.php:137
+msgid "Already cleared the initial steps? Let's dig deeper into Hook..."
+msgstr ""
+
+#: ../hook/functions.php:343
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:192
+msgid "Cancel"
+msgstr ""
+
+#: ../hook/comments.php:97
+msgid "Cancel Reply"
+msgstr ""
+
+#. Name of the template
+msgid "Coming Soon Page"
+msgstr ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:128
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:140
+msgid "Description"
+msgstr ""
+
+#: ../hook/search.php:102
+msgid "Double check your spelling"
+msgstr ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:92
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:94
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../hook/functions.php:313
+msgid "Envato Market"
+msgstr ""
+
+#: ../hook/inc/widgets.php:30
+msgid "Footer Sidebar"
+msgstr ""
+
+#: ../hook/inc/widgets.php:14
+msgid "Hidden Sidebar"
+msgstr ""
+
+#: ../hook/functions.php:284
+msgid "Hook Framework"
+msgstr ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:150
+msgid "HOOK THEME"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.pirenko.com/"
+msgstr ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:167
+msgid "Icon"
+msgstr ""
+
+#: ../hook/functions.php:332
+msgid "Install / Update Plugins"
+msgstr ""
+
+#: ../hook/functions.php:331
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../hook/functions.php:333
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../hook/inc/dashboard.php:95
+msgid "is already installed and activated."
+msgstr ""
+
+#: ../hook/comments.php:96
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:134
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../hook/comments.php:111
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#. Name of the theme
+msgid "Minasa Waleed"
+msgstr ""
+
+#: ../hook/inc/widgets.php:22
+msgid "Mobile Sidebar"
+msgstr ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:90
+msgid "Move down"
+msgstr ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:77
+msgid "Move up"
+msgstr ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:110
+msgid "Navigation Label"
+msgstr ""
+
+#: ../hook/inc/dashboard.php:88
+msgid "needs to be installed and activated."
+msgstr ""
+
+#: ../hook/inc/dashboard.php:92
+msgid "needs to be updated."
+msgstr ""
+
+#: ../hook/comments.php:45
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: ../hook/functions.php:294
+msgid "One Click Demo Import"
+msgstr ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:123
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:178
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#. Author of the theme
+msgid "Pirenko"
+msgstr ""
+
+#: ../hook/functions.php:346
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. Name of the template
+msgid "Portfolio Page"
+msgstr ""
+
+#: ../hook/woocommerce/single-product/tabs/description.php:25
+msgid "Product Description"
+msgstr ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:191
+msgid "Remove"
+msgstr ""
+
+#: ../hook/functions.php:345
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../hook/inc/widgets.php:6
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../hook/comments.php:87
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: ../hook/functions.php:94
+msgid "Search for products"
+msgstr ""
+
+#: ../hook/functions.php:93
+msgid "Search for:"
+msgstr ""
+
+#: ../hook/functions.php:334
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../hook/search.php:95
+msgid "Sorry, but it seems that there are no results... Try again?"
+msgstr ""
+
+#: ../hook/functions.php:340
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../hook/functions.php:337
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../hook/functions.php:342
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../hook/inc/dashboard.php:134
+msgid "Still stuck with someting? We are available to help you anytime."
+msgstr ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:162
+msgid "Style as action button"
+msgstr ""
+
+#: ../hook/inc/dashboard.php:131
+msgid ""
+"Thank you for purchasing Hook! You are free to do pretty much anything, but "
+"we recommend you to get started with the steps below."
+msgstr ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:142
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../hook/functions.php:341
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../hook/functions.php:339
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../hook/functions.php:338
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../hook/functions.php:244
+msgid "Theme - Install Bundled Plugins"
+msgstr ""
+
+#: ../hook/inc/dashboard.php:4
+msgid "Theme Dashboard"
+msgstr ""
+
+#: ../hook/comments.php:10
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../hook/functions.php:336
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../hook/functions.php:335
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:116
+msgid "Title Attribute"
+msgstr ""
+
+#: ../hook/search.php:104
+msgid "Try searching for something that is less specific"
+msgstr ""
+
+#: ../hook/search.php:103
+msgid "Try using single words (e.g. painting, book)"
+msgstr ""
+
+#: ../hook/inc/modules/custom-menu/edit_custom_walker.php:103
+msgid "URL"
+msgstr ""
+
+#: ../hook/functions.php:213
+msgid "Validate Purchase Code"
+msgstr ""
+
+#: ../hook/inc/widgets.php:56
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: ../hook/functions.php:303
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: ../hook/comments.php:106
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. Description of the theme
+msgid "قالب مرن متعدد الاستخدام"
+msgstr ""

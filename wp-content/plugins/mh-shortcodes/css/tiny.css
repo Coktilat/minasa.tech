@@ -1,0 +1,4 @@
+html body.wp-admin .mce-abs-layout{ overflow-y: auto !important; background-color: #f8f8f8 !important;}
+html body.wp-admin .mce-checkbox span{ padding-right: 10px !important;}
+.mce-i-mhsc_shortcodes_button{float: right;}
+.mce-window .mce-abs-layout{overflow: inherit !important;}

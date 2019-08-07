@@ -1,0 +1,91 @@
+body.block-editor-page.mhcomposer-editor-inactive .postbox#post-review, body.block-editor-page.mhcomposer-editor-inactive .postbox#mh_settings_meta_box, body.block-editor-page.mhcomposer-editor-inactive .postbox#mh_activity_settings_meta_box { display: none; }
+
+#mhcomposer-switch-mode-button:before { content: '\e93a'; position: absolute; top: 8px; left: 6px; display: block; font-family: 'mh-app' !important; font-style: normal; font-size: 20px; font-weight: normal; font-variant: normal; line-height: 14px; text-transform: none; speak: none; }
+
+body.rtl #mhcomposer-switch-mode-button:before { left: auto; right: 6px; }
+
+body.mhcomposer-editor-active #mhcomposer-switch-mode-button:before { content: ''; }
+
+#mhcomposer-switch-mode-button { border-bottom: 1px solid #00b6dd; box-sizing: border-box; color: #ffffff !important; font-weight: 600; outline: 0; padding-left: 30px; position: relative; width: 100%; text-shadow: none; background-color: #00b6dd; margin: 2px; height: 33px; line-height: 1; }
+
+.mhcomposer-editor-inactive #mhcomposer-switch-mode-button { animation-name: color_animation; animation-duration: 7000ms; transform-origin: 70% 70%; animation-iteration-count: 3; animation-timing-function: linear; }
+
+body.rtl #mhcomposer-switch-mode-button { font-size: 15px; font-weight: 100; padding-right: 30px; padding-left: 5px; }
+
+body.mhcomposer-editor-active .mhcomposer-switch-mode-off { display: none; }
+
+body.mhcomposer-editor-active #mhcomposer-switch-mode-button { background-color: #999ea3; color: #ffffff; border-color: #ccc; -webkit-box-shadow: 0 1px 0 #ccc !important; box-shadow: 0 1px 0 #ccc !important; text-shadow: unset; padding: 0 5px; }
+
+body.mhcomposer-editor-active #mhcomposer-switch-mode-button:hover { background-color: #999ea3; }
+
+body.mhcomposer-editor-active #mhcomposer-switch-mode-button:active { -webkit-box-shadow: inset 0 1px 0 #ccc; box-shadow: inset 0 1px 0 #ccc; -webkit-transform: translateY(1px); -ms-transform: translateY(1px); transform: translateY(1px); }
+
+body.block-editor-page #mhcomposer-editor { background-image: linear-gradient(147deg, #f5fdff 25%, #ffffff 25%, #ffffff 50%, #f5fdff 50%, #f5fdff 75%, #ffffff 75%, #ffffff 100%); background-size: 36.72px 23.85px; }
+
+#mhcomposer-editor-button::before { font-family: 'mh-app'; speak: none; font-weight: normal; font-variant: normal; text-transform: none; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+#mhcomposer-editor-button::before { content: '\e939'; display: block; position: absolute; left: 20px; top: 18px; font-size: 20px; }
+
+body.rtl #mhcomposer-editor-button::before { right: 20px; left: auto; }
+
+body.mhcomposer-editor-active #postdivrich { display: none !important; }
+
+body.mhcomposer-editor-active .editor-block-list__layout { display: none; }
+
+body.mhcomposer-editor-inactive .mhcomposer-switch-mode-on { display: none; }
+
+body.mhcomposer-editor-inactive #mhcomposer-editor { display: none; }
+
+body.mhcomposer-editor-active .editor-block-list__layout { display: none; }
+
+#mhcomposer-switch-mode { margin: 15px 0; }
+
+#mhcomposer-editor-button { outline: none; cursor: pointer; background: #00b6dd !important; border: none !important; text-shadow: none !important; box-shadow: none !important; -webkit-transition: background .5s; transition: background .5s; color: #fff; padding: 0 20px 0 50px; font-size: 16px; font-weight: 100; height: 53px; line-height: 53px; position: relative; }
+
+body.rtl #mhcomposer-editor-button { padding: 0 50px 0 20px; }
+
+#mhcomposer-go-to-edit-page-link:focus { outline: none; border: none; box-shadow: none; }
+
+#mhcomposer-editor-button .eicon-mhcomposer { margin-right: 5px; }
+
+body.mhcomposer-editor-active #mhcomposer-editor { display: block; }
+
+body.mhcomposer-editor-active .edit-post-layout__content .edit-post-visual-editor { -webkit-flex-basis: auto; -ms-flex-preferred-size: auto; flex-basis: auto; }
+
+body.mhcomposer-editor-active #mhcomposer-editor { margin-bottom: 50px; }
+
+body.mhcomposer-editor-active .edit-post-text-editor__body .editor-post-text-editor { display: none; }
+
+body .gutenberg #mhcomposer-switch-mode { margin: 0 15px; }
+
+body .gutenberg #mhcomposer-switch-mode .button { height: 33px; line-height: 32px; }
+
+body .gutenberg #mhcomposer-switch-mode .button i { font-size: 125%; padding-right: 5px; }
+
+.mhcomposer-button { font-size: 13px; text-decoration: none; padding: 15px 40px; }
+
+#mhcomposer-editor { background-color: #fafafa; border: 1px solid #e5e5e5; height: 300px; width: 100%; padding: 50px; box-sizing: border-box; font-family: "Open Sans", sans-serif; }
+
+body.rtl #mhcomposer-editor { font-family: Tahoma, Arial, sans-serif; }
+
+.mhcomposer-editor-title { text-align: center; }
+
+#mhcomposer-go-to-edit-page-link { display: block; vertical-align: middle; text-align: center; text-decoration: none; margin: 0 auto; }
+
+#mhcomposer-go-to-edit-page-link.mhcomposer-animate #mhcomposer-editor-button { display: none; }
+
+#mhcomposer-go-to-edit-page-link:not(.mhcomposer-animate) #mhc_loading_animation { display: none; }
+
+#mhc_loading_animation { position: fixed; top: 50%; left: 50%; width: 50px; height: 50px; background: #FFF; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; margin: 0 0 0 -75px; z-index: 999999; }
+
+body.rtl #mhc_loading_animation { margin: 0 0 0 35px; }
+
+#mhc_loading_animation::before { content: ''; position: absolute; top: 50%; left: 50%; background: url(../images/ajax-loader.gif) no-repeat; width: 32px; height: 32px; margin: -16px 0 0 -16px; }
+
+body.rtl #mhc_loading_animation::before { right: 50%; left: auto; margin: -16px -16px 0 0; }
+
+@keyframes color_animation { 0% { background-color: #00b6dd; }
+  30% { background-color: #ed5858; }
+  50% { background-color: #a63cd3; }
+  70% { background-color: #2bd588; }
+  100% { background-color: #00b6dd; } }

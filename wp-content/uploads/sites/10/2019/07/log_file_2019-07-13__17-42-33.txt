@@ -1,0 +1,32 @@
+
+---Downloaded files---
+The import files for: RTL Language were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://multi1.minasa.tech
+Data file = /var/www/html/wp-content/uploads/sites/5/2019/07/demo-content-import-file_2019-07-13__17-42-33.xml
+Widget file = /var/www/html/wp-content/uploads/sites/5/2019/07/demo-widgets-import-file_2019-07-13__17-42-33.json
+Customizer file = not defined!
+Redux files:
+prk_hook_options -> /var/www/html/wp-content/uploads/sites/5/2019/07/demo-redux-import-file_0-2019-07-13__17-42-33.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+

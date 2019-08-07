@@ -1,0 +1,54 @@
+/*------------------------------------------------------------------
+[Table of contents]
+
+1. Layout overrides
+
+-------------------------------------------------------------------*/
+@media only screen and (min-width: 768px) {
+
+	.alignfull {
+		margin-left: calc(50% - 50vw);
+		margin-right: calc(50% - 50vw);
+		width: auto;
+		max-width: 1000%;
+	}
+
+	.alignwide {
+		margin-left: calc(15% - 15vw);
+		margin-right: calc(15% - 15vw);
+		width: auto;
+		max-width: 1000%;
+	}
+
+	.alignwide img,
+	.alignfull img {
+		display: block;
+		margin: 0 auto;
+	}
+	.small-9.prk_bordered_right {
+		.alignfull {
+			margin-left: 0px;
+			margin-right: 0px;
+			width: auto;
+			max-width: 100%;
+		}
+
+		.alignwide {
+			margin-left: 0px;
+			margin-right: 0px;
+			width: auto;
+			max-width: 100%;
+		}
+	}
+}
+html {
+	.wp-block-pullquote {
+		color: #40464d;
+		cite {
+			text-decoration: underline;
+		}
+	}
+	.wp-block-button__link {
+		color: inherit;
+	}
+}

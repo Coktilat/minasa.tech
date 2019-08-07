@@ -1,0 +1,348 @@
+/*------------------------------------------------------------------
+[Table of contents]
+
+1. Main Menu
+2. Popper Menu
+3. Dotted Navigation
+4. Mobile Mode
+
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[1. Menu Section]
+*/
+#hook_main_menu {
+    -webkit-backface-visibility: hidden;
+    z-index: 9908;
+    overflow: visible !important;
+    text-align: center;
+    @include transition-property(height);
+    @include transition-duration(0.3s);
+}
+.hook-mn, .hook-mn * {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.hook-mn {
+    margin-bottom: -1px;
+    float: left;
+    width: 100%;
+    -webkit-backface-visibility: hidden;
+    >li {
+        @include transition-property(height,border);
+        @include transition-duration(0.3s);
+        float: left;
+        margin-right: 1px;
+        width: 100%;
+        margin-bottom: -1px;
+        border-bottom:1px solid rgba(0,0,0,0);
+        @include transition-property(border);
+        >a {
+            @include transition-property(height,line-height,color,background-color);
+            @include transition-duration(400ms,400ms,300ms,100ms);
+            @include transition-timing-function($easeOutCubic,$easeOutCubic,$linear,$linear);
+            padding-top: 0px;
+            padding-bottom: 0px;
+            display: inline-block;
+        }
+        &.hook_hover_sub.menu-item-has-children>a:before {
+            margin-top: 0px;
+            @include opacity(1);
+        }
+    }
+    li {
+        width: auto;
+        position: relative;
+    }
+    a {
+        display: block;
+        position: relative;
+        text-align: center;
+        vertical-align: middle;
+        zoom:1;
+        position: relative;
+        @include transition-property(color,padding);
+        @include transition-duration(0.3s);
+    }
+
+    .sub-menu {
+		-webkit-backface-visibility: hidden;
+        margin-top: 1px;
+        letter-spacing: 0px;
+        white-space: nowrap;
+        min-width: 140px;
+        position: absolute;
+        text-align: left;
+        display: none;
+        top: 100%;
+        left: 0;
+        z-index: 99;
+        li a {
+            padding-top: 0px;
+            padding-bottom: 0px;
+            text-align: left;
+        }
+        >li:last-child {
+            border-bottom-width: 0px !important;
+        }
+        ul {
+            top: 0px;
+            margin-top: 0px;
+            left: 100% !important;
+        }
+    }
+    .hook_menu_sub {
+        position: absolute;
+        width: 100%;
+        left: 0px;
+        text-align: center;
+        line-height: 1em;
+    }
+}
+#hook_main_menu .hook-mn>li:not(.hook_actionized)>a {
+    .hook_menu_main {
+        height: auto;
+        line-height: 1em;
+        display: inline-block;
+        position: relative;
+        &:before {
+            position: absolute;
+            left: 0;
+            width: auto;
+            height: 1px;
+            content: '';
+            top: 0px;
+            left: 0px;
+            right: 0px;
+            margin-top: -16px;
+            @include opacity(0);
+            @include transition-property(opacity,margin,background-color);
+            @include transition-duration(0.32s);
+        }
+        &:after {
+            position: absolute;
+            left: 0;
+            width: auto;
+            height: 1px;
+            content: '';
+            top: 100%;
+            left: 0px;
+            right: 0px;
+            margin-top: 15px;
+            @include opacity(0);
+            @include transition-property(opacity,margin,background-color);
+            @include transition-duration(0.32s);
+        }
+    }
+    &:hover{
+        .hook_menu_main:before {
+            margin-top: -6px;
+            @include opacity(0.8);
+        }
+        .hook_menu_main:after {
+            margin-top: 5px;
+            @include opacity(0.8);
+        }
+    }
+}
+.hook-mn li:hover > ul,
+.hook-mn li.sfHover > ul {
+    display: block;
+}
+.hook_on_mobile {
+    #hidden_bar_footer,
+    #menu_section,
+    .hook-mn a,
+    .owl-carousel .item img,
+    .owl-carousel .owl-wrapper,
+    .owl-carousel .owl-item,
+    .mfp-wrap {
+        -webkit-backface-visibility: visible;
+    }
+}
+#hook_header_bar {
+        .hook_menu_sub {
+            display: none;
+        }
+        .menu {
+			padding: 0px;
+			margin: 0px;
+			list-style: none;
+            .sub-menu {
+                margin-left: -$css_theme_gutter;
+                margin-top: 0px;
+                li {
+                    padding-bottom: 0px;
+                    a {
+                        font-size: 1em;
+                    }
+                }
+            }
+            >li {
+                float: left;
+                border-bottom-width: 0px;
+                >a {
+                    font-weight: 400;
+                    padding: 0px;
+                    font-size: 1em;
+                    height: 36px;
+                    line-height: 36px;
+                }
+            }
+        }
+}
+.hook_phone a:before {
+    visibility:hidden;
+}
+.st_hidden_menu {
+    #prk_hidden_menu {
+        height: 100%;
+    }
+}
+
+/*------------------------------------------------------------------
+[2. Popper Menu]
+*/
+.prk_popper_menu {
+    ul {
+        display: none;
+    }
+    a {
+        line-height: 1.5em;
+    }
+}
+
+/*------------------------------------------------------------------
+[3. Dotted Naviation]
+*/
+#dotted_navigation {
+    position: fixed;
+    z-index: 999;
+    right: 21px;
+    top: 50%;
+    -webkit-backface-visibility: hidden;
+    .hook_dotted {
+        width: 24px; 
+        li {
+            height: 18px;
+            list-style: none;
+            position: relative;
+            .hook_menu_label {
+                position: absolute;
+                right: 0px;
+                padding-right: 54px;
+                display: block;
+                white-space: nowrap;
+                @include opacity(0);
+                @include transition-property(opacity);
+                @include transition(250ms $easeInQuart);
+                -webkit-backface-visibility: hidden;
+            }
+        }
+        li:before {
+            width: $css_theme_gutter;
+            height: 6px;
+            content: '';
+            position: absolute;
+            right: 0px;
+            top: 11px;
+            @include transition-property(width,background-color);
+            @include transition-duration(0.25s);
+        }
+        li:hover {
+            .hook_menu_label {
+                 @include opacity(1);
+            }
+        }
+        li:hover:before {
+            width: 2*$css_theme_gutter;
+        }
+        .sub-menu {
+            display: none;
+        }
+    }
+}
+.hook_dotted_nav {
+    #hook_header_background,
+    #hook_header_section,
+    #prk_blocks_wrapper {
+        display: none;
+    }
+}
+.hook_iconized i {
+    padding-left: 6px;
+}
+.hook_actionized {
+    .hook_menu_main {
+        position: relative;
+        z-index: 2;
+    }
+    a:before {
+        display:none;
+    }
+    a:after {
+        content:'';
+        position: absolute;
+        top: 50%;
+        height: 40px;
+        width: 100%;
+        left: 0px;
+        margin-top: -20px;
+        @include transition-property(background-color);
+        @include transition-duration(100ms);
+        @include transition-timing-function(ease);
+    }
+}
+
+/*------------------------------------------------------------------
+[4. Mobile Mode]
+*/
+
+.mobile-menu-ul {
+    li a {
+        position: relative;
+    }
+    .hook_actionized a:after {
+        height:100%;
+        top:0px;
+        margin-top:0px;
+    }
+    li.menu-item-has-children>a:after {
+        content: "\f0d7";
+        position: absolute;
+        display: inline-block;
+        font-family: FontAwesome;
+        font-style: normal;
+        font-weight: normal;
+        line-height: 1;
+        text-rendering: auto;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        top: 50%;
+        margin-top: -8px;
+        right: 0px;
+    }
+    .mobile-menu-ul li.menu-item-has-children>a.hook_showing_sub:after {
+        content: "\f0d8";
+    }
+    .hook_actionized {
+        position:relative;
+        padding-left:0px;
+        margin-top: 8px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

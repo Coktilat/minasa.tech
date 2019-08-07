@@ -1,0 +1,127 @@
+/*------------------------------------------------------------------
+[Table of contents]
+
+1. General Styles
+
+-------------------------------------------------------------------*/
+
+@charset "UTF-8";
+@import "compass/css3";
+
+/* VARIABLES DECLARATION */
+$css_theme_gutter: 18px;
+$golden_font: 1.618;
+$majorer_font: 1.16;
+$minorer_font: 0.84;
+$css_vertical_pad: 54px;
+$sticky_height: 46px;
+
+
+/*------------------------------------------------------------------
+[1. General Styles]
+*/
+/* NEST FOR BLOCKS EDITOR */
+.edit-post-visual-editor {
+	@import "general.scss";
+	@import "layout.scss";
+	@import "menus.scss";
+	@import "elements.scss";
+	@import "other.scss";
+	@import "js_composer.scss";
+	@import "gutenberg.scss";
+	@import "responsive.scss";
+	@import "woocommerce.scss";
+}
+html .editor-styles-wrapper {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	line-height: 1.6em;
+	text-rendering: optimizelegibility;
+	.editor-post-title {
+		.wp-block {
+			max-width: none;
+		}
+	}
+	&.edit-post-visual-editor {
+		padding-top: 0px;
+	}
+	.wp-block-quote {
+		padding-left: 1em;
+		p {
+			font-style: italic;
+			font-weight: 600;
+		}
+	}
+	.wp-block-freeform.block-library-rich-text__tinymce {
+		h1 {
+			font-size: 4.2358rem;
+		}
+		h2 {
+			font-size: 3.55807rem;
+		}
+		h3 {
+			font-size: 2.61792rem;
+		}
+		h4 {
+			font-size: 1.618rem;
+		}
+		h5 {
+			font-size: 1.25rem;
+		}
+		h6 {
+			font-size: 1.1rem;
+		}
+	}
+	.wp-block-freeform.block-library-rich-text__tinymce blockquote {
+		margin: 0px 0px 16px;
+		box-shadow: none;
+		border-left: 0px solid #000;
+		padding-left: 0em;
+	}
+	.mce-item-table,
+	.mce-item-table td,
+	.mce-item-table th,
+	.mce-item-table caption {
+		border-width: 0px;
+	}
+	.wp-block-freeform.block-library-rich-text__tinymce pre,
+	.wp-block-freeform.block-library-rich-text__tinymce code {
+		background: transparent;
+		font-family: monospace;
+	}
+	.wp-block-pullquote {
+		color: #40464d;
+		p {
+			color: #40464d;
+		}
+		cite {
+			text-decoration: underline;
+		}
+	}
+	.wp-block-button__link {
+		color: inherit;
+	}
+	.wp-block-cover .wp-block-cover__inner-container p {
+		color: #FFFFFF;
+	}
+}
+
+@media only screen and (min-width: 768px) {
+	html .edit-post-visual-editor {
+		.wp-block[data-align=full] {
+			margin-left: calc(50% - 50vw);
+			margin-right: calc(50% - 50vw);
+			width: auto;
+			max-width: 1000%;
+		}
+
+		.wp-block[data-align=wide] {
+			width: auto;
+			max-width: 1260px;
+		}
+		.wp-block img {
+			display: block;
+			margin: 0 auto;
+		}
+	}
+}

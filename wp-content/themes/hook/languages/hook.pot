@@ -1,0 +1,955 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hook\n"
+"POT-Creation-Date: 2016-09-29 22:35+0100\n"
+"PO-Revision-Date: 2016-09-29 22:36+0100\n"
+"Last-Translator: Pirenko <pirenko.themeforest@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_150\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: inc\n"
+"X-Poedit-SearchPathExcluded-0: Documentation\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
+"X-Poedit-SearchPathExcluded-2: css\n"
+"X-Poedit-SearchPathExcluded-3: scss\n"
+"X-Poedit-SearchPathExcluded-4: inc/modules\n"
+
+#: comments.php:16
+#, php-format
+msgid "<div class=\"zero_color author_name small-12 prk_heavier_600\">%s</div>"
+msgstr ""
+
+#: comments.php:81
+msgid "&larr; Older comments"
+msgstr ""
+
+#: comments.php:82
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: comments.php:131
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:132
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:141
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:146
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: functions.php:871
+msgid "Search for:"
+msgstr ""
+
+#: functions.php:872
+msgid "Search for products"
+msgstr ""
+
+#: functions.php:1182
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:1183
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:1184
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:1185
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:1196
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:1197
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:1198
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/helper.php:9
+msgid "Acme"
+msgstr ""
+
+#: inc/helper.php:15
+msgid "Alegreya"
+msgstr ""
+
+#: inc/helper.php:21
+msgid "Anton"
+msgstr ""
+
+#: inc/helper.php:27
+msgid "Arial"
+msgstr ""
+
+#: inc/helper.php:33
+msgid "Arimo"
+msgstr ""
+
+#: inc/helper.php:39
+msgid "Arizonia"
+msgstr ""
+
+#: inc/helper.php:45
+msgid "Arvo"
+msgstr ""
+
+#: inc/helper.php:51
+msgid "Asap"
+msgstr ""
+
+#: inc/helper.php:57
+msgid "Asul"
+msgstr ""
+
+#: inc/helper.php:63
+msgid "Average Sans"
+msgstr ""
+
+#: inc/helper.php:69
+msgid "Berkshire Swash"
+msgstr ""
+
+#: inc/helper.php:75
+msgid "Bitter"
+msgstr ""
+
+#: inc/helper.php:81
+msgid "Bree Serif"
+msgstr ""
+
+#: inc/helper.php:87
+msgid "Cabin"
+msgstr ""
+
+#: inc/helper.php:93
+msgid "Cabin Condensed"
+msgstr ""
+
+#: inc/helper.php:99
+msgid "Changa One"
+msgstr ""
+
+#: inc/helper.php:105
+msgid "Ceviche One"
+msgstr ""
+
+#: inc/helper.php:111
+msgid "Cinzel"
+msgstr ""
+
+#: inc/helper.php:117
+msgid "Courier New"
+msgstr ""
+
+#: inc/helper.php:123
+msgid "Cousine"
+msgstr ""
+
+#: inc/helper.php:129
+msgid "Coustard"
+msgstr ""
+
+#: inc/helper.php:135
+msgid "Crimson Text"
+msgstr ""
+
+#: inc/helper.php:141
+msgid "Cutive Mono"
+msgstr ""
+
+#: inc/helper.php:147
+msgid "Dancing Script"
+msgstr ""
+
+#: inc/helper.php:153
+msgid "Dosis"
+msgstr ""
+
+#: inc/helper.php:159
+msgid "Droid Sans"
+msgstr ""
+
+#: inc/helper.php:165
+msgid "Droid Serif"
+msgstr ""
+
+#: inc/helper.php:171
+msgid "Dr Sugiyama"
+msgstr ""
+
+#: inc/helper.php:177
+msgid "Economica"
+msgstr ""
+
+#: inc/helper.php:183
+msgid "Engagement"
+msgstr ""
+
+#: inc/helper.php:189
+msgid "Exo Sans"
+msgstr ""
+
+#: inc/helper.php:195
+msgid "Exo 2"
+msgstr ""
+
+#: inc/helper.php:201
+msgid "Expletus Sans"
+msgstr ""
+
+#: inc/helper.php:207
+msgid "Francois One"
+msgstr ""
+
+#: inc/helper.php:213
+msgid "Fredoka"
+msgstr ""
+
+#: inc/helper.php:219
+msgid "Gentium Book Basic"
+msgstr ""
+
+#: inc/helper.php:225
+msgid "Georgia"
+msgstr ""
+
+#: inc/helper.php:231
+msgid "Great Vibes"
+msgstr ""
+
+#: inc/helper.php:237 inc/helper.php:255
+msgid "Helvetica"
+msgstr ""
+
+#: inc/helper.php:243
+msgid "Hind"
+msgstr ""
+
+#: inc/helper.php:249
+msgid "Inconsolata"
+msgstr ""
+
+#: inc/helper.php:261
+msgid "Istok"
+msgstr ""
+
+#: inc/helper.php:267
+msgid "Josefin Sans"
+msgstr ""
+
+#: inc/helper.php:273
+msgid "Josefin Slab"
+msgstr ""
+
+#: inc/helper.php:279
+msgid "Libre Baskerville"
+msgstr ""
+
+#: inc/helper.php:285
+msgid "Lato"
+msgstr ""
+
+#: inc/helper.php:291
+msgid "Lekton"
+msgstr ""
+
+#: inc/helper.php:297
+msgid "Lora"
+msgstr ""
+
+#: inc/helper.php:303
+msgid "Love Ya Like A Sister"
+msgstr ""
+
+#: inc/helper.php:309
+msgid "Maven Pro"
+msgstr ""
+
+#: inc/helper.php:315
+msgid "Merriweather"
+msgstr ""
+
+#: inc/helper.php:321
+msgid "Merriweather Sans"
+msgstr ""
+
+#: inc/helper.php:327
+msgid "Montaga"
+msgstr ""
+
+#: inc/helper.php:333
+msgid "Montserrat"
+msgstr ""
+
+#: inc/helper.php:339
+msgid "Muli"
+msgstr ""
+
+#: inc/helper.php:345
+msgid "Neuton"
+msgstr ""
+
+#: inc/helper.php:351
+msgid "News Cycle"
+msgstr ""
+
+#: inc/helper.php:357
+msgid "Niconne"
+msgstr ""
+
+#: inc/helper.php:363
+msgid "Nobile"
+msgstr ""
+
+#: inc/helper.php:369
+msgid "Open Sans"
+msgstr ""
+
+#: inc/helper.php:375
+msgid "Open Sans Condensed"
+msgstr ""
+
+#: inc/helper.php:381
+msgid "Orienta"
+msgstr ""
+
+#: inc/helper.php:387
+msgid "Oswald"
+msgstr ""
+
+#: inc/helper.php:393
+msgid "Overlock SC"
+msgstr ""
+
+#: inc/helper.php:399
+msgid "Oxygen"
+msgstr ""
+
+#: inc/helper.php:405
+msgid "Oxygen Mono"
+msgstr ""
+
+#: inc/helper.php:411
+msgid "Pacifico"
+msgstr ""
+
+#: inc/helper.php:417
+msgid "Patua One"
+msgstr ""
+
+#: inc/helper.php:423
+msgid "Playball"
+msgstr ""
+
+#: inc/helper.php:429
+msgid "Playfair"
+msgstr ""
+
+#: inc/helper.php:435
+msgid "Pompiere"
+msgstr ""
+
+#: inc/helper.php:441
+msgid "PT Sans"
+msgstr ""
+
+#: inc/helper.php:447
+msgid "PT Serif"
+msgstr ""
+
+#: inc/helper.php:453
+msgid "PT Sans Narrow"
+msgstr ""
+
+#: inc/helper.php:459
+msgid "Questrial"
+msgstr ""
+
+#: inc/helper.php:465
+msgid "Quicksand"
+msgstr ""
+
+#: inc/helper.php:471
+msgid "Raleway"
+msgstr ""
+
+#: inc/helper.php:477
+msgid "Rambla"
+msgstr ""
+
+#: inc/helper.php:483
+msgid "Roboto"
+msgstr ""
+
+#: inc/helper.php:489
+msgid "Roboto Condensed"
+msgstr ""
+
+#: inc/helper.php:495
+msgid "Roboto Slab"
+msgstr ""
+
+#: inc/helper.php:501
+msgid "Rokkit"
+msgstr ""
+
+#: inc/helper.php:507
+msgid "Ruda"
+msgstr ""
+
+#: inc/helper.php:513
+msgid "Rye"
+msgstr ""
+
+#: inc/helper.php:519
+msgid "Sanchez"
+msgstr ""
+
+#: inc/helper.php:525
+msgid "Satisfy"
+msgstr ""
+
+#: inc/helper.php:531
+msgid "Share Tech"
+msgstr ""
+
+#: inc/helper.php:537
+msgid "Source Sans Pro"
+msgstr ""
+
+#: inc/helper.php:543
+msgid "Special Elite"
+msgstr ""
+
+#: inc/helper.php:549
+msgid "Titillium Web"
+msgstr ""
+
+#: inc/helper.php:555
+msgid "Ubuntu"
+msgstr ""
+
+#: inc/helper.php:561
+msgid "Unifraktur"
+msgstr ""
+
+#: inc/helper.php:567
+msgid "Vollkorn"
+msgstr ""
+
+#: inc/helper.php:573
+msgid "Yanone Kaffeesatz"
+msgstr ""
+
+#: inc/helper.php:579
+msgid "Yellowtail"
+msgstr ""
+
+#: inc/helper.php:585
+msgid "Yesteryear"
+msgstr ""
+
+#: inc/helper.php:592
+msgid "Main Navigation"
+msgstr ""
+
+#: inc/helper.php:593
+msgid "Mobile Mode Navigation"
+msgstr ""
+
+#: inc/helper.php:595
+msgid "AMP Pages Navigation"
+msgstr ""
+
+#: inc/helper.php:614
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: inc/helper.php:615
+msgid "Ooops... Something went terribly wrong!"
+msgstr ""
+
+#: inc/helper.php:616
+msgid "BACK TO HOMEPAGE"
+msgstr ""
+
+#: inc/helper.php:617
+msgid "Type and hit ENTER"
+msgstr ""
+
+#: inc/helper.php:618
+msgid "Search Results For"
+msgstr ""
+
+#: inc/helper.php:619
+msgid "No Results Found"
+msgstr ""
+
+#: inc/helper.php:620
+msgid " (required)"
+msgstr ""
+
+#: inc/helper.php:621
+msgid "I like this!"
+msgstr ""
+
+#: inc/helper.php:622
+msgid "You already liked this."
+msgstr ""
+
+#: inc/helper.php:623
+msgid "Share on"
+msgstr ""
+
+#: inc/helper.php:624
+msgid "View Profile"
+msgstr ""
+
+#: inc/helper.php:625
+msgid "Get In Touch"
+msgstr ""
+
+#: inc/helper.php:626
+msgid "BACK"
+msgstr ""
+
+#: inc/helper.php:627
+msgid "BACK TO PORTFOLIO"
+msgstr ""
+
+#: inc/helper.php:628
+msgid "Filter"
+msgstr ""
+
+#: inc/helper.php:629
+msgid "Launch Project"
+msgstr ""
+
+#: inc/helper.php:630
+msgid "Project URL"
+msgstr ""
+
+#: inc/helper.php:631
+msgid "Skills"
+msgstr ""
+
+#: inc/helper.php:632
+msgid "Tags"
+msgstr ""
+
+#: inc/helper.php:633
+msgid "Client"
+msgstr ""
+
+#: inc/helper.php:634
+msgid "My Custom Field 1"
+msgstr ""
+
+#: inc/helper.php:635
+msgid "My Custom Field 2"
+msgstr ""
+
+#: inc/helper.php:636
+msgid "My Custom Field 3"
+msgstr ""
+
+#: inc/helper.php:637
+msgid "LOAD MORE POSTS"
+msgstr ""
+
+#: inc/helper.php:638
+msgid "NO MORE POSTS"
+msgstr ""
+
+#: inc/helper.php:639
+msgid "Simply delivering amazing stuff. Period."
+msgstr ""
+
+#: inc/helper.php:640
+msgid "About this project"
+msgstr ""
+
+#: inc/helper.php:641
+msgid "PREVIOUS PROJECT"
+msgstr ""
+
+#: inc/helper.php:642
+msgid "NEXT PROJECT"
+msgstr ""
+
+#: inc/helper.php:643
+msgid "CLOSE"
+msgstr ""
+
+#: inc/helper.php:644 inc/helper.php:646
+msgid "Related Projects"
+msgstr ""
+
+#: inc/helper.php:645
+msgid "Date"
+msgstr ""
+
+#: inc/helper.php:647
+msgid "Show All"
+msgstr ""
+
+#: inc/helper.php:648
+msgid "Sticky Post"
+msgstr ""
+
+#: inc/helper.php:649
+msgid "To Blog"
+msgstr ""
+
+#: inc/helper.php:650
+msgid "SEARCH"
+msgstr ""
+
+#: inc/helper.php:651
+msgid "READ MORE"
+msgstr ""
+
+#: inc/helper.php:652
+msgid "Min Read"
+msgstr ""
+
+#: inc/helper.php:653
+msgid "Related Posts"
+msgstr ""
+
+#: inc/helper.php:654
+msgid "Related posts that you should not miss."
+msgstr ""
+
+#: inc/helper.php:655
+msgid "By"
+msgstr ""
+
+#: inc/helper.php:656
+msgid "About"
+msgstr ""
+
+#: inc/helper.php:657
+msgid "Older posts"
+msgstr ""
+
+#: inc/helper.php:658
+msgid "Newer posts"
+msgstr ""
+
+#: inc/helper.php:659
+msgid "PREVIOUS POST"
+msgstr ""
+
+#: inc/helper.php:660
+msgid "NEXT POST"
+msgstr ""
+
+#: inc/helper.php:661 inc/helper.php:664
+msgid "Comments"
+msgstr ""
+
+#: inc/helper.php:662
+msgid "No Comments Yet"
+msgstr ""
+
+#: inc/helper.php:663
+msgid "One Comment"
+msgstr ""
+
+#: inc/helper.php:665
+msgid "Reply"
+msgstr ""
+
+#: inc/helper.php:666
+msgid "Leave a Reply"
+msgstr ""
+
+#: inc/helper.php:667
+msgid "Name"
+msgstr ""
+
+#: inc/helper.php:668
+msgid "Email"
+msgstr ""
+
+#: inc/helper.php:669
+msgid "Website"
+msgstr ""
+
+#: inc/helper.php:670
+msgid "Comment"
+msgstr ""
+
+#: inc/helper.php:671
+msgid "Submit Comment"
+msgstr ""
+
+#: inc/helper.php:672
+msgid "Error! Please fill all the required fields."
+msgstr ""
+
+#: inc/helper.php:673
+msgid "Error! Invalid email."
+msgstr ""
+
+#: inc/helper.php:674
+msgid "Thank you for your feedback!"
+msgstr ""
+
+#: inc/helper.php:675
+msgid "Subject"
+msgstr ""
+
+#: inc/helper.php:676
+msgid "Your Message"
+msgstr ""
+
+#: inc/helper.php:677
+msgid "Send Message"
+msgstr ""
+
+#: inc/helper.php:678
+msgid "Please Wait..."
+msgstr ""
+
+#: inc/helper.php:679
+msgid "Thank you for contacting us. We will reply soon!"
+msgstr ""
+
+#: inc/helper.php:680
+msgid "Next"
+msgstr ""
+
+#: inc/helper.php:681
+msgid "Previous"
+msgstr ""
+
+#: inc/helper.php:682
+msgid "Project Info"
+msgstr ""
+
+#: inc/helper.php:683
+msgid "of"
+msgstr ""
+
+#: inc/helper.php:684
+msgid "on"
+msgstr ""
+
+#: inc/helper.php:685
+msgid "2014 - All rights reserved."
+msgstr ""
+
+#: inc/helper.php:686
+msgid "Proudly developed with WordPress"
+msgstr ""
+
+#: inc/helper.php:687
+msgid "To Top"
+msgstr ""
+
+#: inc/helper.php:688
+msgid "All the posts."
+msgstr ""
+
+#: inc/helper.php:689
+msgid "All the work."
+msgstr ""
+
+#: inc/helper.php:690
+msgid "Your feedback is valuable for us. Your email will not be published."
+msgstr ""
+
+#: inc/helper.php:691 inc/helper.php:699
+msgid ""
+"Sorry, but it seems that there are no results... Maybe you can try again?"
+msgstr ""
+
+#: inc/helper.php:692 inc/helper.php:700
+msgid "Still looking for something else?"
+msgstr ""
+
+#: inc/helper.php:693 inc/helper.php:701 search.php:102
+msgid "Double check your spelling"
+msgstr ""
+
+#: inc/helper.php:694 inc/helper.php:702 search.php:103
+msgid "Try using single words (e.g. painting, book)"
+msgstr ""
+
+#: inc/helper.php:695 inc/helper.php:703 search.php:104
+msgid "Try searching for something that is less specific"
+msgstr ""
+
+#: inc/helper.php:2364
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: inc/helper.php:2366
+msgid "Password:"
+msgstr ""
+
+#: inc/helper.php:2372
+msgid "Submit"
+msgstr ""
+
+#: inc/one-click.php:26 inc/one-click.php:27
+msgid "One-click install"
+msgstr ""
+
+#: inc/widgets.php:6
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/widgets.php:14
+msgid "Hidden Sidebar"
+msgstr ""
+
+#: inc/widgets.php:22
+msgid "Mobile Sidebar"
+msgstr ""
+
+#: inc/widgets.php:30
+msgid "Footer Sidebar"
+msgstr ""
+
+#: inc/widgets.php:40
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: search.php:95
+msgid "Sorry, but it seems that there are no results... Try again?"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:18
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:22
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:27
+msgid "Recent Products"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:79
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:97
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:103
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:120
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:60
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:92
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:69
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "SKU"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/related.php:49
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Product Description"
+msgstr ""

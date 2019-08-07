@@ -1,0 +1,103 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">pirenko_portfolios</custom-type>
+    <custom-type translate="1">pirenko_slides</custom-type>
+    <custom-type translate="1">pirenko_team_member</custom-type>
+    <custom-type translate="1">pirenko_testimonials</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">pirenko_skills</taxonomy>
+    <taxonomy translate="1">portfolio_tag</taxonomy>
+    <taxonomy translate="1">pirenko_slide_set</taxonomy>
+    <taxonomy translate="1">pirenko_member_group</taxonomy>
+    <taxonomy translate="1">pirenko_testimonial_set</taxonomy>
+  </taxonomies>
+  <admin-texts>
+    <key name="prk_hook_options">
+      <key name="menu_text"/>
+      <key name="sidebar_text"/>
+      <key name="footer_text"/>
+      <key name="footer_text_extra"/>
+      <key name="search_tip_text"/>
+      <key name="submit_search_res_title"/>
+      <key name="submit_search_no_results"/>
+      <key name="previous_text"/>
+      <key name="next_text"/>
+      <key name="lightbox_text"/>
+      <key name="profile_text"/>
+      <key name="in_touch_text"/>
+      <key name="twitter_text"/>
+      <key name="facebook_text"/>
+      <key name="google_text"/>
+      <key name="pinterest_text"/>
+      <key name="404_title_text"/>
+      <key name="404_body_text"/>
+      <key name="404_button_text"/>
+      <key name="read_more"/>
+      <key name="sticky_text"/>
+      <key name="min_read_text"/>
+      <key name="posted_by_text"/>
+      <key name="about_author_text"/>
+      <key name="to_blog"/>
+      <key name="older"/>
+      <key name="newer"/>
+      <key name="related_posts_text"/>
+      <key name="related_posts_teaser_text"/>
+      <key name="older_single"/>
+      <key name="newer_single"/>
+      <key name="all_the_posts"/>
+      <key name="prj_desc_text"/>
+      <key name="date_text"/>
+      <key name="client_text"/>
+      <key name="extra_fld1"/>
+      <key name="extra_fld2"/>
+      <key name="extra_fld3"/>
+      <key name="skills_text"/>
+      <key name="tags_text"/>
+      <key name="project_text"/>
+      <key name="launch_text"/>
+      <key name="all_text"/>
+      <key name="load_more"/>
+      <key name="no_more"/>
+      <key name="related_prj_text"/>
+      <key name="related_prj_teaser_text"/>
+      <key name="to_portfolio"/>
+      <key name="prj_prev_text"/>
+      <key name="prj_next_text"/>
+      <key name="all_the_portfolios"/>
+      <key name="comments_label"/>
+      <key name="comments_no_response"/>
+      <key name="comments_one_response"/>
+      <key name="comments_oneplus_response"/>
+      <key name="reply_text"/>
+      <key name="comments_leave_reply"/>
+      <key name="comments_under_reply"/>
+      <key name="comments_author_text"/>
+      <key name="comments_email_text"/>
+      <key name="comments_url_text"/>
+      <key name="comments_comment_text"/>
+      <key name="comments_submit"/>
+      <key name="empty_text_error"/>
+      <key name="invalid_email_error"/>
+      <key name="comment_ok_message"/>
+      <key name="contact_subject_text"/>
+      <key name="contact_message_text"/>
+      <key name="contact_submit"/>
+      <key name="contact_error_text"/>
+      <key name="contact_error_email_text"/>
+      <key name="contact_wait_text"/>
+      <key name="contact_ok_text"/>
+      <key name="css_text"/>
+      <key name="js_text"/>
+      <key name="portfolio_slug"/>
+      <key name="skills_slug"/>
+      <key name="folio_tags_slug"/>
+      <key name="slides_slug"/>
+      <key name="groups_slug"/>
+      <key name="members_slug"/>
+      <key name="team_slug"/>
+      <key name="testimonials_slug"/>
+      <key name="testimonials_groups_slug"/>
+    </key>
+  </admin-texts>
+</wpml-config>

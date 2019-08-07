@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-ultimo-language-selector 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-17 16:32-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../wp-ultimo-language-selector.php:74
+msgid "WP Ultimo: Language Selector"
+msgstr ""
+
+#: ../wp-ultimo-language-selector.php:175
+msgid "Languages"
+msgstr ""
+
+#: ../wp-ultimo-language-selector.php:176
+msgid ""
+"This section holds settings regarding language and localization on WP Ultimo."
+msgstr ""
+
+#: ../wp-ultimo-language-selector.php:180
+msgid "Language selector on Signup"
+msgstr ""
+
+#: ../wp-ultimo-language-selector.php:181
+msgid "Select which languages you want to display on your signup pages."
+msgstr ""
+
+#: ../wp-ultimo-language-selector.php:183
+msgid "Leave blank to allow all languages installed."
+msgstr ""
+
+#: ../wp-ultimo-language-selector.php:499
+msgid ""
+"WP Ultimo: Language Selector on Sign-up requires WP Ultimo to run. Install "
+"and active WP Ultimo to use WP Ultimo: Language Selector on Sign-up."
+msgstr ""
+
+#: ../wp-ultimo-language-selector.php:521
+msgid ""
+"WP Ultimo: Language Selector on Sign-up requires WP Ultimo version 1.9.0. "
+msgstr ""
+
+#: ../inc/class-wu-addon-updater.php:103
+msgid "Status: Activated - Golden Ticket"
+msgstr ""
+
+#: ../inc/class-wu-addon-updater.php:113
+msgid "Status: Activated"
+msgstr ""
+
+#: ../inc/class-wu-addon-updater.php:117
+msgid "Status: License no longer valid - Refund issued"
+msgstr ""
+
+#: ../inc/class-wu-addon-updater.php:123
+msgid "Status: Not Activated - Invalid License Key"
+msgstr ""
+
+#: ../inc/class-wu-addon-updater.php:162
+msgid "Activate your Add-ons"
+msgstr ""
+
+#: ../inc/class-wu-addon-updater.php:163
+msgid ""
+"Use the license key you received with the add-on files to activate your copy "
+"and be notified of new versions automatically."
+msgstr ""
+
+#: ../inc/class-wu-addon-updater.php:178 ../inc/class-wu-addon-updater.php:189
+#, php-format
+msgid "License Key - %s"
+msgstr ""
+
+#: ../inc/class-wu-addon-updater.php:179
+msgid ""
+"You have a golden ticket license. There's no need to activate each add-on "
+"individually."
+msgstr ""
+
+#: ../inc/class-wu-addon-updater.php:190
+msgid ""
+"Put the code you received alongside the add-on when you finalized your "
+"purchase."
+msgstr ""
